@@ -3,7 +3,7 @@ layout: post
 title: "Sauvegardé mon micro.blog sur GitHub "
 microblog: false
 audio: 
-date: 2018-03-30 22:20 +0200
+date: 2018-03-30 22:20:18 +0200
 guid: http://xtof.micro.blog/2018/03/30/sauvegard-mon-microblog.html
 ---
 ## Aide Micro.blog - Mise en miroir vers GitHub
