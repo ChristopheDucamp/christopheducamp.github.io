@@ -36,3 +36,5 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "3650"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
