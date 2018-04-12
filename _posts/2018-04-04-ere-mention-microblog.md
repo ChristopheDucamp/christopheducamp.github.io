@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-04 08:49 +0200
+date: 2018-04-04 08:49:03 +0200
 guid: http://xtof.micro.blog/2018/04/04/ere-mention-microblog.html
 ---
 <figure><img src="http://microblog.ducamp.me/uploads/2018/bc8d5ef878.jpg" width="600" height="600" /><figcaption>1<sup>re</sup> mention micro.blog !</figcaption></figure>
