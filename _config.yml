@@ -20,6 +20,7 @@ baseurl: ""
 url: "https://microblog.ducamp.me"
 markdown: "kramdown"
 username: "xtof"
+microblog_user: "xtof"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "xtof"
