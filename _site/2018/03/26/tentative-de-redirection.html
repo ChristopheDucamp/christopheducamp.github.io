@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta content="xtof" name="author">
+  
+  <title>xtof   - Domaine personnel vers un micro.blog : premier essai peu concluant </title>
+  
+  <link href="/assets/css/style.css" rel="stylesheet">
+  <link href="/assets/css/highlight.css" rel="stylesheet">
+  <link rel="stylesheet" href="/custom.css">
+
+	<link rel="shortcut icon" href="https://micro.blog/xtof/favicon.png" type="image/x-icon" />
+  <link rel="alternate" type="application/rss+xml" title="xtof" href="https://microblog.ducamp.me/feed.xml" />
+  <link rel="alternate" type="application/json" title="xtof" href="https://microblog.ducamp.me/feed.json" />
+  <link rel="EditURI" type="application/rsd+xml" href="/rsd.xml" />
+
+  <link rel="me" href="https://micro.blog/xtof" />
+  
+  	<link rel="me" href="https://twitter.com/xtof_party" />
+  
+  
+  	<link rel="me" href="https://github.com/ChristopheDucamp" />
+  
+  
+  	<link rel="me" href="https://instagram.com/xtof_fr" />
+  
+  <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+  <link rel="micropub" href="https://micro.blog/micropub" />
+  <link rel="webmention" href="https://micro.blog/webmention" />
+  <link rel="subscribe" href="https://micro.blog/users/follow" />
+
+</head>
+<body>
+  <nav class="main-nav">
+  
+  <a class="normal" href="/"> <span class="arrow">←</span> Home</a>
+  
+
+	
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			<a href="/a-propos/">À propos</a>
+		
+	
+		
+			<a href="/now/">Now</a>
+		
+	
+		
+			<a href="/cest-quoi-microblog/">C'est quoi micro.blog ?</a>
+		
+	
+
+  <a class="cta" href="https://micro.blog/xtof" rel="me">Also on Micro.blog</a>
+</nav>
+
+  
+  <section id="wrapper">
+    <article class="h-entry post">
+  <header>
+	
+    <h1 class="p-name">Domaine personnel vers un micro.blog : premier essai peu concluant</h1>
+    
+    <h2 class="headline">
+      <time class="dt-published" datetime="2018-03-26 21:53:30 +0200">
+        <a class="u-url dates" href="/2018/03/26/tentative-de-redirection.html">March 26, 2018</a>
+      </time>
+    </h2>
+  </header>
+  <section class="e-content post-body">
+      <p>Après les paramétrages Gandi, redirection de mon instance micro.blog vers un sous-domaine personnel à partir de l’UI.</p>
+
+<h2 id="les-instructions-en-bref">Les instructions en bref</h2>
+
+<p>(Extraite de <a href="[help.micro.blog/2015/cust...](http://help.micro.blog/2015/custom-domains/)" title="Permalink to Micro.blog Help - Custom domains">micro.blog - Help - Custom domains</a>)</p>
+
+<p>(…) 
+Si vous hébergez votre <em>microblog</em> avec un plan payant de Micro.blog, envisagez de pointer un domaine personnalisé. Cela pourrait être quelque chose ressemblant à  <code class="highlighter-rouge">microblog.votredomaine.com</code> ou même juste <code class="highlighter-rouge">votredomaine.com</code>. Mapper un domaine personnalisé sur Micro.blog est inclus gratuitement dans le plan, dès que vous aurez enregistré votre domaine. (Regardez <a href="https://dnsimple.com/r/9fc1dd2e59824b">DNSimple</a> si vous cherchez à enregistrer un nouveau domaine.</p>
+
+<p>Pour démarrer, mettez à jour votre enregistrement DNS pour pointer vers Micro.blog. Les instructions pour ça dépendront de votre registrar, mais tous les registrars supporteront les types standards d’enregistrements : “A” et “CNAME”.</p>
+
+<p>Si vous voulez utiliser un sous-domaine tel que <code class="highlighter-rouge">microblog.votredomaine.com</code> ou  <code class="highlighter-rouge">www.votredomaine.com</code>, créez un enregistrement “CNAME” quel que soit l’endroit où vous hébergez votre domaine et utilisez la valeur <code class="highlighter-rouge">nomutilisateur.micro.blog</code> (en prenant soin de remplacer <code class="highlighter-rouge">nomutilisateur</code> par votre propre nom d’utilisateur).</p>
+
+<p>Après avoir mis à jour vos enregistrements DNS, cliquez sur « Account » dans la barre de menu de  Micro.blog, puis faites défiler jusqu’à « Paids microblogs” et cliquez sur « Edit Domains &amp; Design”. À côté du nom de l’hôte (Hostname) auquel vous souhaitez mapper un domaine personnalisé, cliquez sur le bouton « Edit. Remplissez ensuite le nom d’hôte (par exemple <code class="highlighter-rouge">microblog.votredomaine.com</code>) que vous souhaitez utiliser pour votre site.</p>
+
+<h2 id="essai-avec-gandi-">Essai avec Gandi :</h2>
+
+<p>Pour Gandi, j’ai donc ajouté la ligne suivante dans les enregistrements DNS afin de faire pointer le sous-domaine <code class="highlighter-rouge">microblog.ducamp.me</code> vers le service :</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>`microblog 10800 IN CNAME xtof.micro.blog.`
+</code></pre>
+</div>
+
+  </section>
+</article>
+<section id="post-meta" class="clearfix">
+  <a href="/">
+    <img class="u-photo avatar" src="https://micro.blog/xtof/avatar.jpg">
+    <div>
+      <span class="p-author h-card dark">xtof</span>
+      <span><a href="https://micro.blog/xtof">@xtof</a></span>
+    </div>
+  </a>
+</section>
+
+  </section>
+  <footer id="footer">
+    <section id="wrapper">
+  <ul>
+    <li><a href="/feed.xml">RSS</a></li>
+    <li><a href="/feed.json">JSON Feed</a></li>
+    <li><a href="https://micro.blog/xtof" rel="me">Micro.blog</a></li>
+<!--     <li><a class="u-email" href="mailto:" rel="me">Email</a></li> -->
+  </ul>
+  <form method="get" id="search" action="https://duckduckgo.com/">
+    <input type="hidden" name="sites" value="https://microblog.ducamp.me"/>
+    <input type="hidden" name="k8" value="#444444"/>
+    <input type="hidden" name="k9" value="#ee4792"/>
+    <input type="hidden" name="kt" value="h"/>
+    <input class="field" type="text" name="q" maxlength="255" placeholder="To search, type and hit Enter&hellip;"/>
+    <input type="submit" value="Search" style="display: none;" />
+  </form>
+</section>
+
+  </footer>
+</body>
+</html>
