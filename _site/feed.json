@@ -1,0 +1,211 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "xtof",
+	"home_page_url": "https://microblog.ducamp.me/",
+	"feed_url": "https://microblog.ducamp.me/feed.json",
+	"items": [
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/21/aaron-parecki-un.html",
+	      	
+			"content_html": "<p>Aaron Parecki : « Un lecteur IndieWeb : Ma nouvelle maison sur l’internet »  &gt; <a href=\"https://www.godaddy.com/garage/an-indieweb-reader-my-new-home-on-the-internet/\">www.godaddy.com/garage/an…</a></p>\n\n<blockquote>\n  <p>J’ai une nouvelle maison sur Internet. Je ne consulte plus la timeline de Twitter ni le <a href=\"https://www.thenation.com/article/hey-facebook-im-quitting-you-and-its-not-just-about-cambridge-analytica/\">Fil de nouvelles Facebook</a>. Je n’ouvre pas l’application Instagram sauf lorsque je poste une photo. J’ai toujours des comptes là-bas - je ne visite plus ces sites. Au lieu de cela, j’ai mon propre nouvel espace sur Internet où tout ce qui m’intéresse est consolidé, et je peux lire et répondre à des choses à partir de là. (…)</p>\n</blockquote>\n",
+			"date_published": "2018-04-21T10:37:35+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/21/aaron-parecki-un.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/18/test-quill.html",
+	      	
+			"title": "Test Quill",
+			
+			"content_html": "<p><strong><a href=\"https://quill.p3k.io/\">Quill</a></strong> est une app simple pour poster des notes de texte sur votre site web en utilisant l’API standard <a href=\"https://micropub.net/\">Micropub</a>. Quill fait partie du <a href=\"https://indieweb.org/p3k\">p3k</a>, créé par <a href=\"https://indieweb.org/User:Aaronparecki.com\">Aaron Parecki</a>.</p>\n",
+			"date_published": "2018-04-18T17:59:49+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/18/test-quill.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/15/lulu-chien-du.html",
+	      	
+			"content_html": "<p>Lulu, chien du bord.</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/a50d100f5e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-15T14:41:14+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/15/lulu-chien-du.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/14/tour-vauban.html",
+	      	
+			"content_html": "<figure>\n<img src=\"http://microblog.ducamp.me/uploads/2018/7324854555.jpg\" width=\"600\" height=\"600\" />\n<figcaption><a href=\"https://en.wikipedia.org/wiki/Tour_Vauban\">Tour Vauban</a></figcaption>\n</figure>\n",
+			"date_published": "2018-04-14T20:00:16+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/14/tour-vauban.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/14/les-tas-de.html",
+	      	
+			"content_html": "<p>Les tas de pois</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/a75e33fc6f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-14T14:31:32+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/14/les-tas-de.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/14/direction-camaret-visibilit.html",
+	      	
+			"content_html": "<p>Direction Camaret. Visibilité 30 mètres. Quelques échos de corne de brume entendus des balises. \nMerci le GPS.</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/9d8f76239c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-14T12:02:10+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/14/direction-camaret-visibilit.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/13/150759.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.ducamp.me/uploads/2018/384dfb2adb.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-13T17:07:59+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/13/150759.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/13/pause-kkette.html",
+	      	
+			"content_html": "<p>Pause Kékette</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/830ff9cea9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-13T12:44:00+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/13/pause-kkette.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/13/100819.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.ducamp.me/uploads/2018/81ae21e35a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-13T12:08:19+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/13/100819.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/13/100549.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.ducamp.me/uploads/2018/c9a7b33f55.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-13T12:05:49+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/13/100549.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/13/100057.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.ducamp.me/uploads/2018/45cda84ae9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-13T12:00:57+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/13/100057.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/12/184913.html",
+	      	
+			"content_html": "<figure>\n<img src=\"http://microblog.ducamp.me/uploads/2018/f51634c0f5.jpg\" width=\"505\" height=\"600\" />\n<figcaption><a href=\"http://pecheurdecouleurs.over-blog.com/pages/Eglise_et_chapelles_dOuessant-4174855.html\">Église d'Ouessant</a></figcaption>\n</figure>\n",
+			"date_published": "2018-04-12T20:49:13+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/12/184913.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/12/la-jument.html",
+	      	
+			"content_html": "<figure>\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"http://microblog.ducamp.me/uploads/2018/3a72507553.jpg\" alt=\"La Jument\" title=\"La-Jument.jpg\" border=\"0\" width=\"400\" height=\"600\" />\n<figcaption><a href=\"https://en.wikipedia.org/wiki/La_Jument\">La Jument</a></figcaption>\n</figure>\n\n",
+			"date_published": "2018-04-12T19:43:25+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/12/la-jument.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/12/ouessant.html",
+	      	
+			"content_html": "<p>Ouessant</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/c259c55ca3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-12T19:21:49+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/12/ouessant.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/12/le-petit.html",
+	      	
+			"content_html": "<figure>\n<img src=\"http://microblog.ducamp.me/uploads/2018/dbf0b3d280.jpg\" width=\"600\" height=\"600\" />\n<figcaption><a href=\"https://en.wikipedia.org/wiki/Phare_du_Petit_Minou\">Le Petit Minou 😿</a></figcaption>\n</figure>\n",
+			"date_published": "2018-04-12T13:25:46+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/12/le-petit.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/12/103619.html",
+	      	
+			"content_html": "<figure>\n<img src=\"http://microblog.ducamp.me/uploads/2018/00cf3ddcc7.jpg\" width=\"600\" height=\"600\" />\n<figcaption><a href=\"https://en.wikipedia.org/wiki/Goulet_de_Brest\">Le Goulet de Brest</a></figcaption>\n</figure>\n",
+			"date_published": "2018-04-12T12:36:19+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/12/103619.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/11/abeille-bourbon.html",
+	      	
+			"content_html": "<p><a href=\"https://fr.wikipedia.org/wiki/Abeille_Bourbon\">Abeille Bourbon</a></p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/99144bf5f4.jpg\" width=\"600\" height=\"600\" /><img src=\"http://microblog.ducamp.me/uploads/2018/3df2a05a29.jpg\" width=\"600\" height=\"600\" /><img src=\"http://microblog.ducamp.me/uploads/2018/6235ead68e.jpg\" width=\"600\" height=\"600\" /><img src=\"http://microblog.ducamp.me/uploads/2018/fba4a0e481.jpg\" width=\"600\" height=\"600\" /><img src=\"http://microblog.ducamp.me/uploads/2018/8809c1da79.jpg\" width=\"600\" height=\"600\" /></p>\n\n<blockquote>\n  <p>L’Abeille Bourbon est un remorqueur d’intervention, d’assistance et de sauvetage (RIAS) français, long de 80 mètres avec une force de traction de 200 tonnes, 12 hommes d’équipage, conçu par l’architecte naval norvégien Sigmund Borgundvaag et construit par Kleven Maritim.</p>\n</blockquote>\n",
+			"date_published": "2018-04-11T16:28:19+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/11/abeille-bourbon.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/11/140849.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.ducamp.me/uploads/2018/761d90ef13.jpg\" width=\"600\" height=\"600\" /><img src=\"http://microblog.ducamp.me/uploads/2018/6fd8318b65.jpg\" width=\"600\" height=\"600\" /><img src=\"http://microblog.ducamp.me/uploads/2018/ead7c64750.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-11T16:08:49+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/11/140849.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/11/140655.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.ducamp.me/uploads/2018/6a568d2575.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-11T16:06:55+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/11/140655.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/11/silos.html",
+	      	
+			"content_html": "<figure>\n<img src=\"http://microblog.ducamp.me/uploads/2018/51f99019c1.jpg\" width=\"600\" height=\"600\" />\n<figcaption>Silos (<a href=\"http://www.worldportsource.com/ports/commerce/FRA_Port_of_Brest_1228.php\">Port de Brest</a>)</figcaption>\n</figure>\n",
+			"date_published": "2018-04-11T15:53:46+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/11/silos.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/11/avocats-en-colre.html",
+	      	
+			"content_html": "<p><a href=\"https://www.franceinter.fr/emissions/le-telephone-sonne/le-telephone-sonne-16-avril-2018\">Avocats en colère</a>.</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/403fab248c.jpg\" width=\"600\" height=\"339\" /></p>\n",
+			"date_published": "2018-04-11T11:24:56+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/11/avocats-en-colre.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/11/vous-avez-une.html",
+	      	
+			"content_html": "<p>Vous avez une <em>relation Amour/Haine</em> avec Twitter &amp; Facebook ? Je vous recommande vivement la lecture de 2 articles pour vous convaincre de venir rejoindre la communauté vibrante des <a href=\"https://micro.blog\">Micro.blog</a>ueurs :</p>\n\n<h3 id=\"1-un-guide-microblog-pour-les-personnes-qui-ont-une-relation-amourhaine-avec-twitter\">1. Un Guide Micro.Blog pour les Personnes qui ont une relation Amour/Haine avec Twitter</h3>\n<p><span class=\"h-cite\"><span class=\"dt-published\">2018-04-10</span> <span class=\"p-author\">Jean MacDonald</span> : <cite><a class=\"u-url p-name\" href=\"https://macgenie.micro.blog/2018/04/10/a-guide-to.html\">A Guide to Micro.blog For People Who Have A Love/Hate Relationship With Twitter</a></cite></span></p>\n\n<p>Ce premier article signé de @<a href=\"http://micro.blog/macgenie\">macgenie</a> (animatrice de la communauté Micro.blog) est un guide écrit spécifiquement pour <em>celles et ceux qui voudraient quitter Twitter suite aux dernières annonces</em>.</p>\n\n<blockquote>\n  <p><strong>TL;DR</strong> Vous n’avez pas à choisir entre les plates-formes, mais voici quelques-uns des points de différenciation. Vous n’êtes pas obligé de quitter Twitter, mais il y a de bonnes chances que Twitter vous quitte, c’est à dire sans votre client Twitter favori.</p>\n</blockquote>\n\n<h3 id=\"2-comment-quitter-facebook-et-twitter-tout-en-restant-social\">2. Comment Quitter Facebook et Twitter tout en Restant Social</h3>\n\n<p>Le second article peut prêter à confusion. Charlie décrit précisément une posture proche des valeurs du mouvement indieweb. À savoir continuer à utiliser Twitter, FB et Instagram tout en reprenant le contrôle de vos données personnelles.</p>\n\n<p><span class=\"h-cite\"><span class=\"dt-published\">2018-04-10</span> <span class=\"p-author\">Charlie Sorrel</span> : <cite><a class=\"u-url p-name\" href=\"https://www.cultofmac.com/540623/quit-facebook-twitter/\">How to leave Facebook and Twitter while staying social</a></cite></span></p>\n\n<h3 id=\"microbloguons-en-langue-française\">Microbloguons en Langue française</h3>\n\n<p>Navigation en Bretagne jusqu’à dimanche. Je me réjouis d’avance de tester les UIs mobiles pour <em>micro-bloguer</em> en conditions humides. Dans l’intervalle, enregistrez-vous sur <a href=\"https://micro.blog\">micro.blog</a> pour une période d’essai. Et retrouvons-nous sur la timeline pour y tenir quelques conversations en langue française 🇫🇷. (mon pseudo, c’est xtof).</p>\n",
+			"date_published": "2018-04-11T08:01:47+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/11/vous-avez-une.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/10/install-lagrgateur-cozy.html",
+	      	
+			"content_html": "<figure>\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"http://microblog.ducamp.me/uploads/2018/7cd1c25318.jpg\" alt=\"App cozy banks 2018 04 10\" title=\"app-cozy-banks-2018-04-10.jpg\" border=\"0\" width=\"229\" height=\"290\" />\n<figcaption>Installé l'agrégateur Cozy Banks version Android. Bravo @cozycloud. Superbe travail. À quand la fonctionnalité d'annotation de relevés bancaires ?</figcaption></figure>\n",
+			"date_published": "2018-04-10T11:57:04+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/10/install-lagrgateur-cozy.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/09/faites-votre-sac.html",
+	      	
+			"content_html": "<p>“Faites votre sac puis lisez” \nEspérant ne rien oublier.\nLa bise @patrice_fender ! (Check-list @todoistofficial)</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/b88ebf7a13.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-09T12:11:01+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/09/faites-votre-sac.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/08/omnibear-est-une.html",
+	      	
+			"content_html": "<p><a href=\"https://omnibear.com/\">Omnibear</a> est une extension navigateur (FF et Chrome). \nVous pouvez l’utiliser pour poster des notes, réponses, reposts, et des likes vers votre micro.blog ou tout site implémentant le protocole <a href=\"https://www.w3.org/TR/micropub/\">micropub</a>.</p>\n\n<blockquote>\n  <p>The Micropub protocol is used to create, update and delete posts on one’s own domain using third-party clients. Web apps and native apps (e.g., iPhone, Android) can use Micropub to post and edit articles, short notes, comments, likes, photos, events or other kinds of posts on your own website.</p>\n</blockquote>\n\n",
+			"date_published": "2018-04-09T00:35:27+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/09/omnibear-est-une.html"
+		}
+		
+	]
+}
