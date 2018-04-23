@@ -1,16 +1,22 @@
-# Dependencies
-# - markdown:         redcarpet
-highlighter:      rouge
+highlighter: "rouge"
+# - markdown: "kramdown"
 
-# Permalinks
-# - permalink:        pretty
-# - relative_permalinks: true
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+plugins:
+  - jekyll-sitemap
 
 title: "xtof"
 tagline: ""
