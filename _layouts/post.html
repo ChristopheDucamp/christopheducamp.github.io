@@ -2,30 +2,27 @@
 layout: default
 ---
 
-<div class="post">
-  {% if page.microblog == false %}
-    <h1 class="page-title">{{ page.title }}</h1>
-  {% endif %}
-  <span class="post-date"><time class="dt-published" datetime="{{ page.date }}">{{ page.date | date_to_string }}</time></span>
-  <div class="e-content">
-  {{ content }}
-  </div>
-</div>
-
-<!--
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
--->
+<article class="h-entry post">
+  <header>
+	{% if page.microblog == false %}
+    <h1 class="p-name">{{ page.title }}</h1>
+    {% endif %}
+    <h2 class="headline">
+      <time class="dt-published" datetime="{{ page.date }}">
+        <a class="u-url dates" href="{{ site.baseurl }}/{{ page.url | remove_first: '/' }}">{{ page.date | date:"%B %-d, %Y" }}</a>
+      </time>
+    </h2>
+  </header>
+  <section class="e-content post-body">
+      {{content}}
+  </section>
+</article>
+<section id="post-meta" class="clearfix">
+  <a href="/">
+    <img class="u-photo avatar" src="{{ site.avatar }}">
+    <div>
+      <span class="p-author h-card dark">{{ site.author }}</span>
+      <span><a href="https://micro.blog/{{ site.microblog_user }}">@{{ site.microblog_user }}</a></span>
+    </div>
+  </a>
+</section>
