@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://xtof.micro.blog/2018/04/27/trs-bel-assemblage.html",
+	      	
+			"content_html": "<p>Très bel assemblage d’@una pour chausser élégamment nos layouts #grid #flexbox <a href=\"http://www.gridtoflex.com/\">www.gridtoflex.com</a></p>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"http://microblog.ducamp.me/uploads/2018/32d4caca43.jpg\" alt=\"Gridtoflex com\" title=\"gridtoflex.com.png\" border=\"0\" width=\"199\" height=\"188\" /></p>\n",
+			"date_published": "2018-04-27T16:29:47+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/27/trs-bel-assemblage.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/25/checked-in-at.html",
+	      	
+			"content_html": "<p>Checked in at Place des Vosges</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/87dd9fa485.jpg\" width=\"337\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-25T11:00:54+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/25/checked-in-at.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/23/armure-famille-kato.html",
+	      	
+			"content_html": "<p>Armure famille Kato Sado (1700)</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/c409ddbde1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-23T12:16:15+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/23/armure-famille-kato.html"
+		},
+		
+		{
 			"id": "http://xtof.micro.blog/2018/04/21/aaron-parecki-un.html",
 	      	
 			"content_html": "<p>Aaron Parecki : « Un lecteur IndieWeb : Ma nouvelle maison sur l’internet »  &gt; <a href=\"https://www.godaddy.com/garage/an-indieweb-reader-my-new-home-on-the-internet/\">www.godaddy.com/garage/an…</a></p>\n\n<blockquote>\n  <p>J’ai une nouvelle maison sur Internet. Je ne consulte plus la timeline de Twitter ni le <a href=\"https://www.thenation.com/article/hey-facebook-im-quitting-you-and-its-not-just-about-cambridge-analytica/\">Fil de nouvelles Facebook</a>. Je n’ouvre pas l’application Instagram sauf lorsque je poste une photo. J’ai toujours des comptes là-bas - je ne visite plus ces sites. Au lieu de cela, j’ai mon propre nouvel espace sur Internet où tout ce qui m’intéresse est consolidé, et je peux lire et répondre à des choses à partir de là. (…)</p>\n</blockquote>\n",
@@ -181,30 +205,6 @@
 			"content_html": "<p>Vous avez une <em>relation Amour/Haine</em> avec Twitter &amp; Facebook ? Je vous recommande vivement la lecture de 2 articles pour vous convaincre de venir rejoindre la communauté vibrante des <a href=\"https://micro.blog\">Micro.blog</a>ueurs :</p>\n\n<h3 id=\"1-un-guide-microblog-pour-les-personnes-qui-ont-une-relation-amourhaine-avec-twitter\">1. Un Guide Micro.Blog pour les Personnes qui ont une relation Amour/Haine avec Twitter</h3>\n<p><span class=\"h-cite\"><span class=\"dt-published\">2018-04-10</span> <span class=\"p-author\">Jean MacDonald</span> : <cite><a class=\"u-url p-name\" href=\"https://macgenie.micro.blog/2018/04/10/a-guide-to.html\">A Guide to Micro.blog For People Who Have A Love/Hate Relationship With Twitter</a></cite></span></p>\n\n<p>Ce premier article signé de @<a href=\"http://micro.blog/macgenie\">macgenie</a> (animatrice de la communauté Micro.blog) est un guide écrit spécifiquement pour <em>celles et ceux qui voudraient quitter Twitter suite aux dernières annonces</em>.</p>\n\n<blockquote>\n  <p><strong>TL;DR</strong> Vous n’avez pas à choisir entre les plates-formes, mais voici quelques-uns des points de différenciation. Vous n’êtes pas obligé de quitter Twitter, mais il y a de bonnes chances que Twitter vous quitte, c’est à dire sans votre client Twitter favori.</p>\n</blockquote>\n\n<h3 id=\"2-comment-quitter-facebook-et-twitter-tout-en-restant-social\">2. Comment Quitter Facebook et Twitter tout en Restant Social</h3>\n\n<p>Le second article peut prêter à confusion. Charlie décrit précisément une posture proche des valeurs du mouvement indieweb. À savoir continuer à utiliser Twitter, FB et Instagram tout en reprenant le contrôle de vos données personnelles.</p>\n\n<p><span class=\"h-cite\"><span class=\"dt-published\">2018-04-10</span> <span class=\"p-author\">Charlie Sorrel</span> : <cite><a class=\"u-url p-name\" href=\"https://www.cultofmac.com/540623/quit-facebook-twitter/\">How to leave Facebook and Twitter while staying social</a></cite></span></p>\n\n<h3 id=\"microbloguons-en-langue-française\">Microbloguons en Langue française</h3>\n\n<p>Navigation en Bretagne jusqu’à dimanche. Je me réjouis d’avance de tester les UIs mobiles pour <em>micro-bloguer</em> en conditions humides. Dans l’intervalle, enregistrez-vous sur <a href=\"https://micro.blog\">micro.blog</a> pour une période d’essai. Et retrouvons-nous sur la timeline pour y tenir quelques conversations en langue française 🇫🇷. (mon pseudo, c’est xtof).</p>\n",
 			"date_published": "2018-04-11T08:01:47+02:00",
 			"url": "https://microblog.ducamp.me/2018/04/11/vous-avez-une.html"
-		},
-		
-		{
-			"id": "http://xtof.micro.blog/2018/04/10/install-lagrgateur-cozy.html",
-	      	
-			"content_html": "<figure>\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"http://microblog.ducamp.me/uploads/2018/7cd1c25318.jpg\" alt=\"App cozy banks 2018 04 10\" title=\"app-cozy-banks-2018-04-10.jpg\" border=\"0\" width=\"229\" height=\"290\" />\n<figcaption>Installé l'agrégateur Cozy Banks version Android. Bravo @cozycloud. Superbe travail. À quand la fonctionnalité d'annotation de relevés bancaires ?</figcaption></figure>\n",
-			"date_published": "2018-04-10T11:57:04+02:00",
-			"url": "https://microblog.ducamp.me/2018/04/10/install-lagrgateur-cozy.html"
-		},
-		
-		{
-			"id": "http://xtof.micro.blog/2018/04/09/faites-votre-sac.html",
-	      	
-			"content_html": "<p>“Faites votre sac puis lisez” \nEspérant ne rien oublier.\nLa bise @patrice_fender ! (Check-list @todoistofficial)</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/b88ebf7a13.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-09T12:11:01+02:00",
-			"url": "https://microblog.ducamp.me/2018/04/09/faites-votre-sac.html"
-		},
-		
-		{
-			"id": "http://xtof.micro.blog/2018/04/08/omnibear-est-une.html",
-	      	
-			"content_html": "<p><a href=\"https://omnibear.com/\">Omnibear</a> est une extension navigateur (FF et Chrome). \nVous pouvez l’utiliser pour poster des notes, réponses, reposts, et des likes vers votre micro.blog ou tout site implémentant le protocole <a href=\"https://www.w3.org/TR/micropub/\">micropub</a>.</p>\n\n<blockquote>\n  <p>The Micropub protocol is used to create, update and delete posts on one’s own domain using third-party clients. Web apps and native apps (e.g., iPhone, Android) can use Micropub to post and edit articles, short notes, comments, likes, photos, events or other kinds of posts on your own website.</p>\n</blockquote>\n\n",
-			"date_published": "2018-04-09T00:35:27+02:00",
-			"url": "https://microblog.ducamp.me/2018/04/09/omnibear-est-une.html"
 		}
 		
 	]
