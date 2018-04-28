@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://xtof.micro.blog/2018/04/28/sans-faire-de.html",
+	      	
+			"content_html": "<p>Sans faire de bruit, @MastodonProject franchit le cap du million d’utilisateurs  <a href=\"https://listed.standardnotes.org/\">listed.standardnotes.org</a><a href=\"https://micro.blog/xtof\">@xtof</a>/1420/sans-faire-de-bruit-mastodon-franchit-le-cap-du-million-d-utilisateurs \n/by @LesEchos</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/566d964d43.jpg\" width=\"600\" height=\"319\" /></p>\n",
+			"date_published": "2018-04-28T16:23:26+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/28/sans-faire-de.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/27/twist-and-loud.html",
+	      	
+			"title": "Twist and loud ! Les débuts du rock | ARTE",
+			
+			"content_html": "<p><a href=\"https://www.arte.tv/fr/videos/051575-000-A/twist-and-loud-les-debuts-du-rock/\">Twist and loud ! Les débuts du rock</a> à revivre sur @ArteFr</p>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"http://microblog.ducamp.me/uploads/2018/e378f6f558.jpg\" alt=\"Radio Caroline1\" title=\"Radio_Caroline1.jpg\" border=\"0\" width=\"274\" height=\"189\" /></p>\n\n",
+			"date_published": "2018-04-27T23:25:57+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/27/twist-and-loud.html"
+		},
+		
+		{
+			"id": "http://xtof.micro.blog/2018/04/27/personnenebouge-mick-jagger.html",
+	      	
+			"content_html": "<p>.@PersonneNeBouge ! Mick Jagger est sur @ARTEfr \n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"http://microblog.ducamp.me/uploads/2018/2db0220ee7.jpg\" alt=\"Mick jagger\" title=\"mick-jagger.jpg\" border=\"0\" width=\"599\" height=\"337\" /></p>\n",
+			"date_published": "2018-04-27T22:52:03+02:00",
+			"url": "https://microblog.ducamp.me/2018/04/27/personnenebouge-mick-jagger.html"
+		},
+		
+		{
 			"id": "http://xtof.micro.blog/2018/04/27/trs-bel-assemblage.html",
 	      	
 			"content_html": "<p>Très bel assemblage d’@una pour chausser élégamment nos layouts #grid #flexbox <a href=\"http://www.gridtoflex.com/\">www.gridtoflex.com</a></p>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"http://microblog.ducamp.me/uploads/2018/32d4caca43.jpg\" alt=\"Gridtoflex com\" title=\"gridtoflex.com.png\" border=\"0\" width=\"199\" height=\"188\" /></p>\n",
@@ -181,30 +207,6 @@
 			"content_html": "<p><img src=\"http://microblog.ducamp.me/uploads/2018/6a568d2575.jpg\" width=\"480\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-11T16:06:55+02:00",
 			"url": "https://microblog.ducamp.me/2018/04/11/140655.html"
-		},
-		
-		{
-			"id": "http://xtof.micro.blog/2018/04/11/silos.html",
-	      	
-			"content_html": "<figure>\n<img src=\"http://microblog.ducamp.me/uploads/2018/51f99019c1.jpg\" width=\"600\" height=\"600\" />\n<figcaption>Silos (<a href=\"http://www.worldportsource.com/ports/commerce/FRA_Port_of_Brest_1228.php\">Port de Brest</a>)</figcaption>\n</figure>\n",
-			"date_published": "2018-04-11T15:53:46+02:00",
-			"url": "https://microblog.ducamp.me/2018/04/11/silos.html"
-		},
-		
-		{
-			"id": "http://xtof.micro.blog/2018/04/11/avocats-en-colre.html",
-	      	
-			"content_html": "<p><a href=\"https://www.franceinter.fr/emissions/le-telephone-sonne/le-telephone-sonne-16-avril-2018\">Avocats en colère</a>.</p>\n\n<p><img src=\"http://microblog.ducamp.me/uploads/2018/403fab248c.jpg\" width=\"600\" height=\"339\" /></p>\n",
-			"date_published": "2018-04-11T11:24:56+02:00",
-			"url": "https://microblog.ducamp.me/2018/04/11/avocats-en-colre.html"
-		},
-		
-		{
-			"id": "http://xtof.micro.blog/2018/04/11/vous-avez-une.html",
-	      	
-			"content_html": "<p>Vous avez une <em>relation Amour/Haine</em> avec Twitter &amp; Facebook ? Je vous recommande vivement la lecture de 2 articles pour vous convaincre de venir rejoindre la communauté vibrante des <a href=\"https://micro.blog\">Micro.blog</a>ueurs :</p>\n\n<h3 id=\"1-un-guide-microblog-pour-les-personnes-qui-ont-une-relation-amourhaine-avec-twitter\">1. Un Guide Micro.Blog pour les Personnes qui ont une relation Amour/Haine avec Twitter</h3>\n<p><span class=\"h-cite\"><span class=\"dt-published\">2018-04-10</span> <span class=\"p-author\">Jean MacDonald</span> : <cite><a class=\"u-url p-name\" href=\"https://macgenie.micro.blog/2018/04/10/a-guide-to.html\">A Guide to Micro.blog For People Who Have A Love/Hate Relationship With Twitter</a></cite></span></p>\n\n<p>Ce premier article signé de @<a href=\"http://micro.blog/macgenie\">macgenie</a> (animatrice de la communauté Micro.blog) est un guide écrit spécifiquement pour <em>celles et ceux qui voudraient quitter Twitter suite aux dernières annonces</em>.</p>\n\n<blockquote>\n  <p><strong>TL;DR</strong> Vous n’avez pas à choisir entre les plates-formes, mais voici quelques-uns des points de différenciation. Vous n’êtes pas obligé de quitter Twitter, mais il y a de bonnes chances que Twitter vous quitte, c’est à dire sans votre client Twitter favori.</p>\n</blockquote>\n\n<h3 id=\"2-comment-quitter-facebook-et-twitter-tout-en-restant-social\">2. Comment Quitter Facebook et Twitter tout en Restant Social</h3>\n\n<p>Le second article peut prêter à confusion. Charlie décrit précisément une posture proche des valeurs du mouvement indieweb. À savoir continuer à utiliser Twitter, FB et Instagram tout en reprenant le contrôle de vos données personnelles.</p>\n\n<p><span class=\"h-cite\"><span class=\"dt-published\">2018-04-10</span> <span class=\"p-author\">Charlie Sorrel</span> : <cite><a class=\"u-url p-name\" href=\"https://www.cultofmac.com/540623/quit-facebook-twitter/\">How to leave Facebook and Twitter while staying social</a></cite></span></p>\n\n<h3 id=\"microbloguons-en-langue-française\">Microbloguons en Langue française</h3>\n\n<p>Navigation en Bretagne jusqu’à dimanche. Je me réjouis d’avance de tester les UIs mobiles pour <em>micro-bloguer</em> en conditions humides. Dans l’intervalle, enregistrez-vous sur <a href=\"https://micro.blog\">micro.blog</a> pour une période d’essai. Et retrouvons-nous sur la timeline pour y tenir quelques conversations en langue française 🇫🇷. (mon pseudo, c’est xtof).</p>\n",
-			"date_published": "2018-04-11T08:01:47+02:00",
-			"url": "https://microblog.ducamp.me/2018/04/11/vous-avez-une.html"
 		}
 		
 	]
