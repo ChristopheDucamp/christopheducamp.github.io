@@ -7,7 +7,7 @@ guid: http://xtof.micro.blog/2018/03/31/ownyourgram-est-un.html
 ---
 [OwnYourGram](https//ownyourgram) est un service qui publie vos photos instagram sur votre propre site. Ici un écran de réglage pour poster sur un [micro.blog](https://micro.blog). La diffusion du flux peut prendre quelques heures.
 
-<img src="http://microblog.ducamp.me/uploads/2018/4186871e31.jpg" width="600" height="600" />
+<img src="https://microblog.ducamp.me/uploads/2018/4186871e31.jpg" width="600" height="600" />
 
 ## Voir aussi
 
