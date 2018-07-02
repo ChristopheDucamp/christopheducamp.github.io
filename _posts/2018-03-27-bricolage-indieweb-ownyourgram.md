@@ -16,4 +16,4 @@ guid: http://xtof.micro.blog/2018/03/27/bricolage-indieweb-ownyourgram.html
 Enthousiaste sur ce chantier #indieweb de recherche d'UI présentable et à tester prochainement auprès de mes gosses. 
 ([Bricolages techniques à suivre pour raffiner ce site expérimental](http://ducamp.me/2018-086#Bricolages_sur_micro.blog)  
 
-<img src="http://microblog.ducamp.me/uploads/2018/8ac3fa6fa3.jpg" width="600" height="581" />
+<img src="https://microblog.ducamp.me/uploads/2018/8ac3fa6fa3.jpg" width="600" height="581" />
