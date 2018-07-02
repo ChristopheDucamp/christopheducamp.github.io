@@ -5,7 +5,7 @@ audio:
 date: 2018-04-04 08:49:03 +0200
 guid: http://xtof.micro.blog/2018/04/04/ere-mention-microblog.html
 ---
-<figure><img src="http://microblog.ducamp.me/uploads/2018/bc8d5ef878.jpg" width="600" height="600" /><figcaption>1<sup>re</sup> mention micro.blog !</figcaption></figure>
+<figure><img src="https://microblog.ducamp.me/uploads/2018/bc8d5ef878.jpg" width="600" height="600" /><figcaption>1<sup>re</sup> mention micro.blog !</figcaption></figure>
 
 Reçue de [@c](https://micro.blog/c) aka [@chrisaldrich](https://micro.blog/chrisaldrich) qui pose clairement le problème du nom d'utilisateur à choisir sur le service micro.blog. 
 Pour rejoindre la conversation, rendez-vous chez "c" 
