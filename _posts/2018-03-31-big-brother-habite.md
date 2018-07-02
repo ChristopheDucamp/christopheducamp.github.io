@@ -13,7 +13,7 @@ Fichage, politique, marketing, Cambridge analytica, Facebook... Le point de vue 
 
 
 
-<img src="http://microblog.ducamp.me/uploads/2018/049539887d.jpg" width="600" height="600" />
+<img src="https://microblog.ducamp.me/uploads/2018/049539887d.jpg" width="600" height="600" />
 
 À revoir sur la chaîne YouTube de @[thinker_view](http://twitter.com/thinker_view).
 
