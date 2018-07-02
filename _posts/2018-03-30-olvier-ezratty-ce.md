@@ -5,7 +5,7 @@ audio:
 date: 2018-03-30 16:20:44 +0200
 guid: http://xtof.micro.blog/2018/03/30/olvier-ezratty-ce.html
 ---
-<img src="http://microblog.ducamp.me/uploads/2018/6a02f95a9d.jpg" alt="Rapport villani" title="rapport-villani.jpg" border="0" width="117" height="174" style="float:right;" />
+<img src="https://microblog.ducamp.me/uploads/2018/6a02f95a9d.jpg" alt="Rapport villani" title="rapport-villani.jpg" border="0" width="117" height="174" style="float:right;" />
 
 
 <p>Olvier Ezratty : <a href="http://www.oezratty.net/wordpress/2018/rapport-villani/">Ce que révèle le Rapport Villani</a></p>
