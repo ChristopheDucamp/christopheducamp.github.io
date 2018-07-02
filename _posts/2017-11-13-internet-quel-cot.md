@@ -7,4 +7,4 @@ guid: http://xtof.micro.blog/2017/11/13/internet-quel-cot.html
 ---
 Internet quel coût écologique. ?
 
-<img src="http://microblog.ducamp.me/uploads/2018/28e9dfdeab.jpg" width="600" height="600" />
+<img src="https://microblog.ducamp.me/uploads/2018/28e9dfdeab.jpg" width="600" height="600" />
