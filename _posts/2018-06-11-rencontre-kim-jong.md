@@ -10,4 +10,4 @@ guid: http://xtof.micro.blog/2018/06/11/rencontre-kim-jong.html
 
 [Massacres en Corée](https://en.wikipedia.org/wiki/Massacre_in_Korea) - Picasso - 1951 
 
-<img src="http://microblog.ducamp.me/uploads/2018/f645d9837d.jpg" width="600" height="316" />
+<img src="https://microblog.ducamp.me/uploads/2018/f645d9837d.jpg" width="600" height="316" />
