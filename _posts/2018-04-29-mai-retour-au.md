@@ -9,4 +9,4 @@ Mai 68 : retour au quartier latin.
 Prod. France Culture. Renaud Dalmar. Superbe balade sonore de 75 minutes pour comprendre la révolte estudiantine et ouvrière.
 App #izitravel.
 
-<img src="http://microblog.ducamp.me/uploads/2018/b21a197aef.jpg" width="558" height="558" />
+<img src="https://microblog.ducamp.me/uploads/2018/b21a197aef.jpg" width="558" height="558" />
