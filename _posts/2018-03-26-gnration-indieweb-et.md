@@ -34,7 +34,7 @@ Convaincu par les arguments de [Manton Reece](https://manton.org/) pour essayer 
 
 > Je travaille maintenant sur la prochaine version de l'app macOS pour Micro.blog, qui comporte plusieurs comptes et même plusieurs blogs sous le même compte. Voici une capture d'écran de l'écran des paramètres :
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://microblog.ducamp.me/uploads/2018/cb45a7eef6.jpg" alt="Macos microblog prefs accounts" title="macos-microblog-prefs_accounts.png" border="0" width="512" height="415" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="https://microblog.ducamp.me/uploads/2018/cb45a7eef6.jpg" alt="Macos microblog prefs accounts" title="macos-microblog-prefs_accounts.png" border="0" width="512" height="415" />
 
 > L'objectif de Micro.blog n'est pas d'être un fournisseur d'hébergement temporaire, avec des utilisateurs vraiment "sérieux" qui finissent par passer à autre chose (bien que nous rendions cela si facile). Nous voulons que l'hébergement Micro.blog soit la meilleure plate-forme pour posséder votre contenu et participer aux communautés Micro.blog et IndieWeb.
 
@@ -61,14 +61,14 @@ Sinon je suis ravi de retrouver une interface de publication agréable dans l'é
 ## Conclusion 
 Pour conclure, en attendant l'<a href="https://mikehaynes.blog/2018/03/29/i-havent-had.html">app micro.blog Android</a>, je compte m'équiper d'un iPhone pour essayer l'[app iOS](http://ducamp.me/Micro.blog#Apps). Et je (chrono)rêve déjà de bricolages de workflows de publication moderne pour publier sur le web !
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://microblog.ducamp.me/uploads/2018/7b5e7135de.jpg" alt="Slackjamstatic fr 2018 03 30" title="Slackjamstatic-fr 2018-03-30.png" border="0" width="170" height="248" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="https://microblog.ducamp.me/uploads/2018/7b5e7135de.jpg" alt="Slackjamstatic fr 2018 03 30" title="Slackjamstatic-fr 2018-03-30.png" border="0" width="170" height="248" />
 
 
 ## Pourquoi nous rejoindre sur Micro.blog  
 
 Parce qu'il y trop peu de français sur l'indieweb ! Et que Micro.blog est un excellent moyen de démarrer facilement sur l'IndieWeb quelle que soit votre <em>génération</em>.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://microblog.ducamp.me/uploads/2018/caedea49bf.jpg" alt="Indieweb generations diagram" title="indieweb-generations-diagram.jpg" border="0" width="324" height="252" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="https://microblog.ducamp.me/uploads/2018/caedea49bf.jpg" alt="Indieweb generations diagram" title="indieweb-generations-diagram.jpg" border="0" width="324" height="252" />
 
 1. **Voulez-vous essayer l'IndieWeb sans domaine ?** Si vous n'avez pas de nom de domaine mais que vous voulez essayer certaines des fonctionnalités de l'IndieWeb, vous pouvez créer un compte micro.blog, suivre les gens là-bas et répondre aux messages à la fois sur micro.blog et ailleurs sur l'IndieWeb. Si vous décidez d'acquérir un nom de domaine, micro.blog vous aidera à faire la transition en utilisant son site (voir 2), ou même à exporter vos posts vers un nouveau site vous appartenant à partir duquel vous pourrez connecter votre compte micro.blog (voir 3).
 1. **Vous disposez d'un nom de domaine mais n'avez pas encore de site ?** Si vous n'avez pas de site principal, vous pouvez enregistrer un domaine et le connecter à micro.blog comme service d'hébergement pour un montant mensuel minimal. Micro.blog vous permettra ensuite de publier facilement des [notes](https://indieweb.org/note), [articles](https://indieweb.org/article), [photos](https://indieweb.org/photo) et d'autres types de messages. S'ils le choisissent, il existe une excellente importation/exportation leur permettant de migrer relativement facilement entre les plateformes.
