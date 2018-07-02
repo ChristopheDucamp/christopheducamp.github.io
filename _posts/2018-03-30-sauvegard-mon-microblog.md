@@ -14,7 +14,7 @@ Pour cette configuration, vous devez créer un nouveau repo sur GitHub. Pour la 
 
 Vous pouvez définir le référentiel GitHub et le jeton d'accès dans Micro.blog sous Account → « Edit domains and design ». N'oubliez pas que le référentiel doit inclure votre nom d'utilisateur ou votre nom d'organisation ainsi que le nom du référentiel.
 
-<figure><img style="display:block; margin-left:auto; margin-right:auto;" src="http://microblog.ducamp.me/uploads/2018/51929844a6.jpg" alt="Github settings micro blog 2018 03 30" title="github-settings-micro.blog-2018-03-30.png" border="0" width="355" height="104" /><figcaption>Réglages GitHub pour sauvegarder mon micro blog</figcaption></figure>
+<figure><img style="display:block; margin-left:auto; margin-right:auto;" src="https://microblog.ducamp.me/uploads/2018/51929844a6.jpg" alt="Github settings micro blog 2018 03 30" title="github-settings-micro.blog-2018-03-30.png" border="0" width="355" height="104" /><figcaption>Réglages GitHub pour sauvegarder mon micro blog</figcaption></figure>
 
 Une fois les réglages sauvegardés, patientez quelques minutes... En ce qui me concerne, le résultat a fonctionné du premier coup et reste visible sur ce dépôt GitHub : [https://github.com/ChristopheDucamp/christopheducamp.github.io](https://github.com/ChristopheDucamp/christopheducamp.github.io). 
 
