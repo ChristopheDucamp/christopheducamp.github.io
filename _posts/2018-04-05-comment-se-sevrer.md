@@ -8,7 +8,7 @@ guid: http://xtof.micro.blog/2018/04/05/comment-se-sevrer.html
 ---
 
 <figure>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://microblog.ducamp.me/uploads/2018/db2da173a1.jpg" alt="Facebook sevrage traduction" title="facebook-sevrage-traduction.png" border="0" width="358" height="475" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="https://microblog.ducamp.me/uploads/2018/db2da173a1.jpg" alt="Facebook sevrage traduction" title="facebook-sevrage-traduction.png" border="0" width="358" height="475" />
 <figcaption>Extrait de la page de travail <a href="https://indieweb.org/Facebook-fr">Facebook-fr</a> sur le wiki indieweb</figcaption>
 </figure>
 
