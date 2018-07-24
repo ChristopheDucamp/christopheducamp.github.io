@@ -18,6 +18,9 @@
 
 	<link rel="shortcut icon" href="https://micro.blog/{{ site.username }}/favicon.png" type="image/x-icon" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  {% if site.podcast %}
+  <link rel="alternate" type="application/rss+xml" title="Podcast" href="{{ "/podcast.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  {% endif %}
   <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="EditURI" type="application/rsd+xml" href="{{ site.baseurl }}/rsd.xml" />
 
