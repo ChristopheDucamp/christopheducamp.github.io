@@ -40,7 +40,7 @@ github_username: "ChristopheDucamp"
 instagram_username: "xtof_fr"
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "WET"
+timezone: "Poland"
 site_id: "3650"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
