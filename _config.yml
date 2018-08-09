@@ -43,7 +43,9 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "3650"
 gems: ["jekyll-paginate"]
+itunes_description: "Sur la longue route de l'indieweb. ChronoRêve : partir entre ciels et mers."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Christophe Ducamp"
+itunes_email: ""
 podcast: false
