@@ -3,7 +3,7 @@ layout: post
 title: "Aide Micro.blog - Publication Croisée sur Twitter et Facebook"
 microblog: false
 audio: 
-date: 2018-03-27 00:22:57 +0100
+date: 2018-03-27 01:22:57 +0200
 guid: http://xtof.micro.blog/2018/03/26/aide-microblog-publication.html
 ---
 Désormais doté d'un blog contenant quelques messages à raffiner de microblog, je dois pouvoir selon [la documentation](http://help.micro.blog/2016/cross-posting-twitter/) le connecter à Twitter pour [POSSE](https://indieweb.org/POSSE)r automatiquement ces messages ou articles sur Twitter. 
