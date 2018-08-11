@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-03 13:20:50 +0100
+date: 2018-07-03 14:20:50 +0200
 guid: http://xtof.micro.blog/2018/07/03/lancepierres-ou-metteur.html
 ---
 Lance-pierres ou émetteur radio ?
