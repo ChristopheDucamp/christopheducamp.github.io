@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-29 07:56:43 +0100
+date: 2018-04-29 08:56:43 +0200
 guid: http://xtof.micro.blog/2018/04/29/mai-retour-au.html
 ---
 Mai 68 : retour au quartier latin.
