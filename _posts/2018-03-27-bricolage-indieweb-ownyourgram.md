@@ -3,7 +3,7 @@ layout: post
 title: "Bricolage #indieweb : OwnYourGram"
 microblog: false
 audio: 
-date: 2018-03-27 03:56:37 +0100
+date: 2018-03-27 04:56:37 +0200
 guid: http://xtof.micro.blog/2018/03/27/bricolage-indieweb-ownyourgram.html
 ---
 [OwnYourGram.com](https:ownyourgram.com) est un service qui publie vos #photos #Instagram sur votre propre site en temps réel.  
