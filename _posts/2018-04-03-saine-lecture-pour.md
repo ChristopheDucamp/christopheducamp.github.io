@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-03 12:47:49 +0100
+date: 2018-04-03 13:47:49 +0200
 guid: http://xtof.micro.blog/2018/04/03/saine-lecture-pour.html
 ---
 Saine lecture pour comprendre la #siliconfiction. Avec [Ayn Rand](https://fr.wikipedia.org/wiki/Ayn_Rand) dedans. Merci @le_nml
