@@ -3,7 +3,7 @@ layout: post
 title: "Twist and loud ! Les débuts du rock | ARTE"
 microblog: false
 audio: 
-date: 2018-04-27 22:25:57 +0100
+date: 2018-04-27 23:25:57 +0200
 guid: http://xtof.micro.blog/2018/04/27/twist-and-loud.html
 ---
 <a href="https://www.arte.tv/fr/videos/051575-000-A/twist-and-loud-les-debuts-du-rock/">Twist and loud ! Les débuts du rock</a> à revivre sur @ArteFr
