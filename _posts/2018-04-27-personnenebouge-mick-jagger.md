@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-27 21:52:03 +0100
+date: 2018-04-27 22:52:03 +0200
 guid: http://xtof.micro.blog/2018/04/27/personnenebouge-mick-jagger.html
 ---
 .@PersonneNeBouge ! Mick Jagger est sur @ARTEfr 
