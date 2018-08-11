@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-03 09:53:37 +0100
+date: 2018-04-03 10:53:37 +0200
 guid: http://xtof.micro.blog/2018/04/03/ui-micropublish-checkin.html
 ---
 Ui #micropublish check-in error #micropub (départ navigateur mozilla vers mon micro.blog hébergé  chez @microdotblog)
