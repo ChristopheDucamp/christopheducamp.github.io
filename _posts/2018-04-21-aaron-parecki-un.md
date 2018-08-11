@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-21 09:37:35 +0100
+date: 2018-04-21 10:37:35 +0200
 guid: http://xtof.micro.blog/2018/04/21/aaron-parecki-un.html
 ---
 Aaron Parecki : « Un lecteur IndieWeb : Ma nouvelle maison sur l'internet »  > [www.godaddy.com/garage/an...](https://www.godaddy.com/garage/an-indieweb-reader-my-new-home-on-the-internet/)
