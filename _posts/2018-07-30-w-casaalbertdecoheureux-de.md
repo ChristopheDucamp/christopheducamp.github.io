@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-30 18:31:07 +0100
+date: 2018-07-30 19:31:07 +0200
 guid: http://xtof.micro.blog/2018/07/30/w-casaalbertdecoheureux-de.html
 ---
 w @casaalbertdeco.
