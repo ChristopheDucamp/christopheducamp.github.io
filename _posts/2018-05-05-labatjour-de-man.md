@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-05 23:15:17 +0100
+date: 2018-05-06 00:15:17 +0200
 guid: http://xtof.micro.blog/2018/05/05/labatjour-de-man.html
 ---
 L’abat-jour de Man Ray [www.centrepompidou.fr/cpv/resou...](https://www.centrepompidou.fr/cpv/resource/cnyKEML/rrg87p6) 
