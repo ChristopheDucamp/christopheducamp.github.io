@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-02 16:34:32 +0100
+date: 2018-04-02 17:34:32 +0200
 guid: http://xtof.micro.blog/2018/04/02/lintelligence-artificielle-cest.html
 ---
 <figure><img style="display:block; margin-left:auto; margin-right:auto;" src="https://microblog.ducamp.me/uploads/2018/01e6c3523a.jpg" alt="738 cedric villani afp" title="738_cedric_villani-afp.jpg" border="0" width="368" height="245" /><figcaption><blockquote>L'intelligence artificielle, c'est crétin
