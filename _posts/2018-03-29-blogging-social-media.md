@@ -3,7 +3,7 @@ layout: post
 title: "Blogging, social media, and ambient humanity"
 microblog: false
 audio: 
-date: 2018-03-29 10:06:12 +0100
+date: 2018-03-29 11:06:12 +0200
 guid: http://xtof.micro.blog/2018/03/29/blogging-social-media.html
 ---
 <p><a href="https://kottke.org/18/03/blogging-social-media-and-ambient-humanity">Blogging, social media, and ambient humanity</a>:
