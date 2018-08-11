@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-02 08:16:12 +0100
+date: 2018-04-02 09:16:12 +0200
 guid: http://xtof.micro.blog/2018/04/02/a-comme-adactiohttpsmicroblogadactio.html
 ---
 Micro Monday #indieweb recommendation : A comme [@adactio](https://micro.blog/adactio) 
