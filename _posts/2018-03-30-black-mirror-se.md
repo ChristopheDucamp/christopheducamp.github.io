@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-30 14:22:28 +0100
+date: 2018-03-30 15:22:28 +0200
 guid: http://xtof.micro.blog/2018/03/30/black-mirror-se.html
 ---
 Black Mirror S03E01 : des questionnaires de satisfaction comme un outil de pression managériale. 
