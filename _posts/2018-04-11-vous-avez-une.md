@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-11 07:01:47 +0100
+date: 2018-04-11 08:01:47 +0200
 guid: http://xtof.micro.blog/2018/04/11/vous-avez-une.html
 ---
 Vous avez une <em>relation Amour/Haine</em> avec Twitter & Facebook ? Je vous recommande vivement la lecture de 2 articles pour vous convaincre de venir rejoindre la communauté vibrante des [Micro.blog](https://micro.blog)ueurs : 
