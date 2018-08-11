@@ -3,7 +3,7 @@ layout: post
 title: "Coup de Chapeau : 9 Capsules Intemporelles d'Anne-Caroline Paucot dans le Rapport Villani"
 microblog: false
 audio: 
-date: 2018-03-29 21:26:53 +0100
+date: 2018-03-29 22:26:53 +0200
 guid: http://xtof.micro.blog/2018/03/29/coup-de-chapeau.html
 ---
 <img src="https://microblog.ducamp.me/uploads/2018/4d02437305.jpg" alt="Rapport villani accessible 13093 pdf  page 1 sur 235 2018 03 29 21 18 35" title="rapport-villani-accessible-13093.pdf (page 1 sur 235) 2018-03-29 21-18-35.jpg" border="0" width="100" height="84" style="float:right;" />
