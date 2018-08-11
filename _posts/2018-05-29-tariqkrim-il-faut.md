@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-29 07:17:25 +0100
+date: 2018-05-29 08:17:25 +0200
 guid: http://xtof.micro.blog/2018/05/29/tariqkrim-il-faut.html
 ---
 .@tariqkrim : « Il faut limiter certaines technologies avant qu'il ne soit trop tard »  
