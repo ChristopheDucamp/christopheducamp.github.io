@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-30 15:20:44 +0100
+date: 2018-03-30 16:20:44 +0200
 guid: http://xtof.micro.blog/2018/03/30/olvier-ezratty-ce.html
 ---
 <img src="https://microblog.ducamp.me/uploads/2018/6a02f95a9d.jpg" alt="Rapport villani" title="rapport-villani.jpg" border="0" width="117" height="174" style="float:right;" />
