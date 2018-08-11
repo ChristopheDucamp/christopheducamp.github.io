@@ -3,7 +3,7 @@ layout: post
 title: "Domaine personnel vers un micro.blog : premier essai peu concluant"
 microblog: false
 audio: 
-date: 2018-03-26 20:53:30 +0100
+date: 2018-03-26 21:53:30 +0200
 guid: http://xtof.micro.blog/2018/03/26/tentative-de-redirection.html
 ---
 Après les paramétrages Gandi, redirection de mon instance micro.blog vers un sous-domaine personnel à partir de l'UI. 
