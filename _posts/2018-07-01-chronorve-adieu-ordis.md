@@ -3,7 +3,7 @@ layout: post
 title: "Golden Globe Race : Adieu ordis, numérique, électronique..."
 microblog: false
 audio: 
-date: 2018-07-01 20:50:21 +0100
+date: 2018-07-01 21:50:21 +0200
 guid: http://xtof.micro.blog/2018/07/01/chronorve-adieu-ordis.html
 ---
 > La vérité de l'Océan, un face à face où il est impossible de se mentir soi-même, à moins de vouloir perdre la vie. 
