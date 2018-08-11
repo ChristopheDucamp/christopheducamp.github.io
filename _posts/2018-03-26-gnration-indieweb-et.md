@@ -3,7 +3,7 @@ layout: post
 title: "Génération IndieWeb 4 et domaines hébergés"
 microblog: false
 audio: 
-date: 2018-03-26 20:37:46 +0100
+date: 2018-03-26 21:37:46 +0200
 guid: http://xtof.micro.blog/2018/03/26/gnration-indieweb-et.html
 ---
 Convaincu par les arguments de [Manton Reece](https://manton.org/) pour essayer le service [micro.blog](https://micro.blog).  
