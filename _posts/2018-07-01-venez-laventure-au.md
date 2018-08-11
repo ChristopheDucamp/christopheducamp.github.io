@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-01 19:46:56 +0100
+date: 2018-07-01 20:46:56 +0200
 guid: http://xtof.micro.blog/2018/07/01/venez-laventure-au.html
 ---
 > Venez, l'aventure au sextant va commencer - Jean-Luc Van den Heede  (FRA) Rustler 36 Matmut)
