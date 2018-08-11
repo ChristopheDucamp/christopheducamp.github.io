@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-08 23:35:27 +0100
+date: 2018-04-09 00:35:27 +0200
 guid: http://xtof.micro.blog/2018/04/08/omnibear-est-une.html
 ---
 [Omnibear](https://omnibear.com/) est une extension navigateur (FF et Chrome). 
