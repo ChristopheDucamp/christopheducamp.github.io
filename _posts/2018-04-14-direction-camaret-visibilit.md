@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-14 11:02:10 +0100
+date: 2018-04-14 12:02:10 +0200
 guid: http://xtof.micro.blog/2018/04/14/direction-camaret-visibilit.html
 ---
 Direction Camaret. Visibilité 30 mètres. Quelques échos de corne de brume entendus des balises. 
