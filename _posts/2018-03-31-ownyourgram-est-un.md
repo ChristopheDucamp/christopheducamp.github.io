@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-31 10:14:59 +0100
+date: 2018-03-31 11:14:59 +0200
 guid: http://xtof.micro.blog/2018/03/31/ownyourgram-est-un.html
 ---
 [OwnYourGram](https//ownyourgram) est un service qui publie vos photos instagram sur votre propre site. Ici un écran de réglage pour poster sur un [micro.blog](https://micro.blog). La diffusion du flux peut prendre quelques heures.
