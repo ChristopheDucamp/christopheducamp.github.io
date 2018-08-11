@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-31 18:05:13 +0100
+date: 2018-03-31 19:05:13 +0200
 guid: http://xtof.micro.blog/2018/03/31/like-jadore-vraiment.html
 ---
 Like : <img style="display:block; margin-left:auto; margin-right:auto;" src="https://microblog.ducamp.me/uploads/2018/342652d718.jpg" alt="Webmentions nicolas hoizey jekyll" title="webmentions-nicolas-hoizey-jekyll.jpg" border="0" width="433" height="463" />
