@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-02 15:27:23 +0100
+date: 2018-04-02 16:27:23 +0200
 guid: http://xtof.micro.blog/2018/04/02/ezra-klein-mark.html
 ---
 <img style="display:block; margin-left:auto; margin-right:auto;" src="https://microblog.ducamp.me/uploads/2018/32d8249bdb.jpg" alt="Mark Zuckerberg on Facebook s future fake news and Russian mischief  Vox 2018 04 02 15 19 35" title="Mark Zuckerberg on Facebook’s future, fake news, and Russian mischief - Vox 2018-04-02 15-19-35.jpg" border="0" width="562" height="433" />
