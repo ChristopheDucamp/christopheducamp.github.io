@@ -43,9 +43,7 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "3650"
 gems: ["jekyll-paginate"]
-itunes_description: "Sur la longue route de l'indieweb. ChronoRêve d'agréger quelques flux de famille et partir entre ciels et mers avec de nouvelles UIs de publication mobiles.
-
-Instance personnelle sur Mastodon  https://indieweb.me (admin néophyte)"
+itunes_description: "Sur les chemins de l'indieweb. ChronoRêve : me poser ici  pour essayer les tagmojis. Et repartir voguer entre ciels et mers."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Christophe Ducamp"
