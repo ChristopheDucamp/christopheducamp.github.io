@@ -10,7 +10,11 @@ Origine de la peur 📚
 <img src="http://microblog.ducamp.me/uploads/2018/c726558060.jpg" width="600" height="600" />
 
 
-## à faire 
+Réaction en formation RS : 
 
-- classer le ticket de caisse (repos) dans le trieur 
-- (étiquette frais d'amorçage pour embarquement) 
+- regarder le TIPI (à déléguer)
+
+
+
+
+
