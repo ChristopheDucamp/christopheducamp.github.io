@@ -43,7 +43,8 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "3650"
 gems: ["jekyll-paginate"]
-itunes_description: "Sur les chemins de l'indieweb. ChronoRêve : déléguer ce compte à mes enfants pour pilotage d'un blog de famille. Et repartir voguer entre ciels et mers."
+itunes_description: "Sur les chemins de l'indieweb. Départ en Transat à la voile via les Antilles espéré pour fin octobre.
+ChronoRêve : piloter quelques lignes de ce compte avec un téléphone iridium."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Christophe Ducamp"
