@@ -43,8 +43,9 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "3650"
 gems: ["jekyll-paginate"]
-itunes_description: "Sur les chemins de l'indieweb. Départ en Transat à la voile via les Antilles espéré pour fin octobre.
-ChronoRêve : piloter quelques lignes de ce compte avec un téléphone iridium."
+itunes_description: "Apprenti marin sur la route de l'indieweb. 
+Première transat fin octobre. 
+30 jours pour apprendre à déposer quelques lignes de journal de bord à l'attention de mon Papa via une liaison iridium."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Christophe Ducamp"
