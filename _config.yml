@@ -43,9 +43,8 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "3650"
 gems: ["jekyll-paginate"]
-itunes_description: "Apprenti marin sur la route de l'indieweb. 
-Première transat fin octobre. 
-30 jours pour apprendre à déposer quelques lignes de journal de bord à l'attention de mon Papa via une liaison iridium."
+itunes_description: "Paris, 57. Papa de 3 enfants. 
+Apprenti marin sur la route de l'indieweb. Passionné de navigation hauturière, cherche embarquement pour traversée transatlantique."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Christophe Ducamp"
