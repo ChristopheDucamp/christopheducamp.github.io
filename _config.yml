@@ -40,13 +40,13 @@ github_username: "ChristopheDucamp"
 instagram_username: "xtof_fr"
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "Poland"
+timezone: "Zulu"
 site_id: "3650"
 gems: ["jekyll-paginate"]
 itunes_description: "Paris, 57. Papa de 3 enfants. 
-Apprenti marin sur la route de l'indieweb. Passionné de navigation hauturière, cherche embarquement pour traversée transatlantique."
+Apprenti marin sur la route de l'indieweb. Passionné de navigation hauturière. Ancré à Las Palmas (Canaries) pour traversée transatlantique."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Christophe Ducamp"
-itunes_email: ""
+itunes_email: "christophe@ducamp.me"
 podcast: false
