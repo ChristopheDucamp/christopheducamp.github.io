@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-26 02:44:53 +0200
+date: 2018-07-26 00:44:53 -0000
 guid: http://xtof.micro.blog/2018/07/26/le-clair-de.html
 ---
 Le clair de lune, un danger pour les petits ⛵- moitessier
