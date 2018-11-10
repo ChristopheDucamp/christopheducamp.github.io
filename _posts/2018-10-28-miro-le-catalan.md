@@ -3,7 +3,7 @@ layout: post
 title: "Miró (Rétrospective au Grand Palais)"
 microblog: false
 audio: 
-date: 2018-10-28 15:29:08 +0200
+date: 2018-10-28 13:29:08 -0000
 guid: http://xtof.micro.blog/2018/10/28/miro-le-catalan.html
 ---
 <blockquote>Pour moi, un tableau doit être comme des étincelles. Il faut qu’il éblouisse comme la beauté d’une femme ou d’un poème.</blockquote>
