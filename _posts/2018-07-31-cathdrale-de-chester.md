@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-31 18:29:55 +0200
+date: 2018-07-31 16:29:55 -0000
 guid: http://xtof.micro.blog/2018/07/31/cathdrale-de-chester.html
 ---
 Cathédrale de Chester
