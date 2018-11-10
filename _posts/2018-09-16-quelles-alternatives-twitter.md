@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-16 18:43:54 +0200
+date: 2018-09-16 16:43:54 -0000
 guid: http://xtof.micro.blog/2018/09/16/quelles-alternatives-twitter.html
 ---
 Quelles alternatives à Twitter ? 
