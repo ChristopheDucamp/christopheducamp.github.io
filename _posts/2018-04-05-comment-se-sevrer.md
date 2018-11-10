@@ -3,7 +3,7 @@ layout: post
 title: "Comment se sevrer soi-même de Facebook ? "
 microblog: false
 audio: 
-date: 2018-04-05 13:13:49 +0200
+date: 2018-04-05 11:13:49 -0000
 guid: http://xtof.micro.blog/2018/04/05/comment-se-sevrer.html
 ---
 
