@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-25 19:24:45 +0200
+date: 2018-06-25 17:24:45 -0000
 guid: http://xtof.micro.blog/2018/06/25/expokupka.html
 ---
 # expokupka
