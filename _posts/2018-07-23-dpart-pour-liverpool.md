@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-23 15:13:16 +0200
+date: 2018-07-23 13:13:16 -0000
 guid: http://xtof.micro.blog/2018/07/23/dpart-pour-liverpool.html
 ---
 ⛵ Départ pour Liverpool
