@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-30 19:31:14 +0200
+date: 2018-07-30 17:31:14 -0000
 guid: http://xtof.micro.blog/2018/07/30/holyhead-to-liverpool.html
 ---
 Holyhead to Liverpool #anglesley
