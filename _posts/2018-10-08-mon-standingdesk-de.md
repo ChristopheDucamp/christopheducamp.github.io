@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-08 09:32:19 +0200
+date: 2018-10-08 07:32:19 -0000
 guid: http://xtof.micro.blog/2018/10/08/mon-standingdesk-de.html
 ---
 Mon #StandingDesk de fortune. 
