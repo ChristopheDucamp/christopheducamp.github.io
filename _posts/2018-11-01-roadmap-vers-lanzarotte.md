@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-11-01 10:49:45 +0200
+date: 2018-11-01 08:49:45 -0000
 guid: http://xtof.micro.blog/2018/11/01/roadmap-vers-lanzarotte.html
 ---
 Roadmap vers Lanzarotte. Météo calme. Arrivée prévue mardi.
