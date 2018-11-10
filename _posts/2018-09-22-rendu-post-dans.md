@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-22 11:32:27 +0200
+date: 2018-09-22 09:32:27 -0000
 guid: http://xtof.micro.blog/2018/09/22/rendu-post-dans.html
 ---
 Rendu post dans Time Line micro.blog... conversation ouverte pour optimiser mon shopping du jour. Bises.
