@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-24 14:00:19 +0200
+date: 2018-08-24 12:00:19 -0000
 guid: http://xtof.micro.blog/2018/08/24/picasso-taureau-ceramics.html
 ---
 Picasso taureau #ceramics
