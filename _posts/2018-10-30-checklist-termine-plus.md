@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-30 10:07:15 +0200
+date: 2018-10-30 08:07:15 -0000
 guid: http://xtof.micro.blog/2018/10/30/checklist-termine-plus.html
 ---
 Check-list terminée. Plus qu’à remplir dans sac 80 litres. Pas réussi à désactiver la cartouche de gaz de la life-jacket.
