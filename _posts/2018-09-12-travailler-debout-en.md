@@ -3,7 +3,7 @@ layout: post
 title: "Travailler Debout en 2019"
 microblog: false
 audio: 
-date: 2018-09-12 08:32:44 +0200
+date: 2018-09-12 06:32:44 -0000
 guid: http://xtof.micro.blog/2018/09/12/travailler-debout-en.html
 ---
 Ajouté « Travailler debout" dans ma GTD urbaine. 
