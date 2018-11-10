@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-12 09:52:50 +0200
+date: 2018-09-12 07:52:50 -0000
 guid: http://xtof.micro.blog/2018/09/12/ajout-cette-lampe.html
 ---
 Ajouté cette lampe avec du vrai pain dans ma liste de courses. Design Yukiko Morito (jp) 
