@@ -3,7 +3,7 @@ layout: post
 title: "La citadelle la plus sûre"
 microblog: false
 audio: 
-date: 2018-09-23 09:25:05 +0200
+date: 2018-09-23 07:25:05 -0000
 guid: http://xtof.micro.blog/2018/09/23/la-citadelle-la.html
 ---
 Méditation en cours. 
