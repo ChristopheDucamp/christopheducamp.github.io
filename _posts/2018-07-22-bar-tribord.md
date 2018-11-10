@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-22 13:33:13 +0200
+date: 2018-07-22 11:33:13 -0000
 guid: http://xtof.micro.blog/2018/07/22/bar-tribord.html
 ---
 Bar à tribord
