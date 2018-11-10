@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-18 13:14:15 +0200
+date: 2018-10-18 11:14:15 -0000
 guid: http://xtof.micro.blog/2018/10/18/alphonse-mucha-jusquau.html
 ---
 
