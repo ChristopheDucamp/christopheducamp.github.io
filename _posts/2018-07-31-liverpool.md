@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-31 22:44:13 +0200
+date: 2018-07-31 20:44:13 -0000
 guid: http://xtof.micro.blog/2018/07/31/liverpool.html
 ---
 ⚓ Liverpool
