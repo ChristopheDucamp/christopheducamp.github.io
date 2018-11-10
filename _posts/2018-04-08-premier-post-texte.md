@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-09 00:00:31 +0200
+date: 2018-04-08 22:00:31 -0000
 guid: http://xtof.micro.blog/2018/04/08/premier-post-texte.html
 ---
 Premier post (texte + image) avec le client micropub <a href="https://indieweb.org/InkStone">InkStone</a>.
