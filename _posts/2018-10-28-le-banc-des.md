@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-28 12:47:25 +0200
+date: 2018-10-28 10:47:25 -0000
 guid: http://xtof.micro.blog/2018/10/28/le-banc-des.html
 ---
 Le banc des amoureux (Johan Creten, 2011)
