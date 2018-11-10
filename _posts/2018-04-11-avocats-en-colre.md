@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-11 11:24:56 +0200
+date: 2018-04-11 09:24:56 -0000
 guid: http://xtof.micro.blog/2018/04/11/avocats-en-colre.html
 ---
 <a href="https://www.franceinter.fr/emissions/le-telephone-sonne/le-telephone-sonne-16-avril-2018">Avocats en colère</a>.
