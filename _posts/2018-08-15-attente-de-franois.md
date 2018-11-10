@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-15 11:44:56 +0200
+date: 2018-08-15 09:44:56 -0000
 guid: http://xtof.micro.blog/2018/08/15/attente-de-franois.html
 ---
 Attente de François...
