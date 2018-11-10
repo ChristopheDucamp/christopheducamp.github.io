@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-25 08:05:20 +0200
+date: 2018-09-25 06:05:20 -0000
 guid: http://xtof.micro.blog/2018/09/25/coup-dur-pour.html
 ---
 Coup dur pour #facebook 
