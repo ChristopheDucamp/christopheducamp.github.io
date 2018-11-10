@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-01 09:24:00 +0200
+date: 2018-04-01 07:24:00 -0000
 guid: http://xtof.micro.blog/2018/04/01/source-usinenouvellecom.html
 ---
 À la une de <a href="https://www.usinenouvelle.com/">L'Usine Nouvelle</a> : 
