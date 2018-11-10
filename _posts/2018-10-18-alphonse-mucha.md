@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-18 13:17:34 +0200
+date: 2018-10-18 11:17:34 -0000
 guid: http://xtof.micro.blog/2018/10/18/alphonse-mucha.html
 ---
 <a href="https://museeduluxembourg.fr/expositions/alphonse-mucha">Alphonse Mucha</a>
