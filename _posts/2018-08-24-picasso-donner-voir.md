@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-24 13:21:11 +0200
+date: 2018-08-24 11:21:11 -0000
 guid: http://xtof.micro.blog/2018/08/24/picasso-donner-voir.html
 ---
 #Picasso donner à voir
