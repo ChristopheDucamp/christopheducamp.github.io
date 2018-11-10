@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-08 22:26:22 +0200
+date: 2018-09-08 20:26:22 -0000
 guid: http://xtof.micro.blog/2018/09/08/jukebox-seattle-minutes.html
 ---
 🎙️🎵 <strong>Juke-box à Seattle</strong>. 
