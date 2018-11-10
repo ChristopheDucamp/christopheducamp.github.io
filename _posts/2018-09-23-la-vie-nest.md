@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-23 07:46:35 +0200
+date: 2018-09-23 05:46:35 -0000
 guid: http://xtof.micro.blog/2018/09/23/la-vie-nest.html
 ---
 > "La vie n’est pas une danse" (via Marc-Aurèle)
