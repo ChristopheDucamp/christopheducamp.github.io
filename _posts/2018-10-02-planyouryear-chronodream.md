@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-02 22:48:31 +0200
+date: 2018-10-02 20:48:31 -0000
 guid: http://xtof.micro.blog/2018/10/02/planyouryear-chronodream.html
 ---
 #PlanYourYear 2019 chronodream
