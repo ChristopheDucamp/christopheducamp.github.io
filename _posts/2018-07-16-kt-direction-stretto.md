@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-16 10:09:17 +0200
+date: 2018-07-16 08:09:17 -0000
 guid: http://xtof.micro.blog/2018/07/16/kt-direction-stretto.html
 ---
 4.5 kt Direction 'stretto di messina'
