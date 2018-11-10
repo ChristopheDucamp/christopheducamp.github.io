@@ -3,7 +3,7 @@ layout: post
 title: "Podcaster avec Micro.blog 🎙️"
 microblog: false
 audio: 
-date: 2018-09-13 21:24:10 +0200
+date: 2018-09-13 19:24:10 -0000
 guid: http://xtof.micro.blog/2018/09/13/podcaster-avec-microblog.html
 ---
 <em>Traduction d'un article de @manton [Podcasting with Micro.blog](http://help.micro.blog/2018/microcasting/)</em><br>(Publié le 2018-04-12, seul le lien original fait référence.)
