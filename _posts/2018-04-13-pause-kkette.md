@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-13 12:44:00 +0200
+date: 2018-04-13 10:44:00 -0000
 guid: http://xtof.micro.blog/2018/04/13/pause-kkette.html
 ---
 Pause Kékette
