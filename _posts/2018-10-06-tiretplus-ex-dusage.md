@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-06 07:49:20 +0200
+date: 2018-10-06 05:49:20 -0000
 guid: http://xtof.micro.blog/2018/10/06/tiretplus-ex-dusage.html
 ---
 [Tiret / Plus](https://www.christopheducamp.com/2018/09/23/tiret-plus/) : un ex. d’usage en GTD
