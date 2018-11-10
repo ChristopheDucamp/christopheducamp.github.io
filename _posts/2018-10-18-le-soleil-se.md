@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-18 08:29:52 +0200
+date: 2018-10-18 06:29:52 -0000
 guid: http://xtof.micro.blog/2018/10/18/le-soleil-se.html
 ---
 Le soleil se lève à ...
