@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-25 10:12:16 +0200
+date: 2018-09-25 08:12:16 -0000
 guid: http://xtof.micro.blog/2018/09/25/gros-sous-source.html
 ---
 Gros sous (source the 4 Galloway 2018)
