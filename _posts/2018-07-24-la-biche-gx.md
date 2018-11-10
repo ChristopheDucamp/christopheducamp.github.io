@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-24 10:27:11 +0200
+date: 2018-07-24 08:27:11 -0000
 guid: http://xtof.micro.blog/2018/07/24/la-biche-gx.html
 ---
 La Biche GX (thonier)
