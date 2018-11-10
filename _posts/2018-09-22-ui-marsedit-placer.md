@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-22 11:29:40 +0200
+date: 2018-09-22 09:29:40 -0000
 guid: http://xtof.micro.blog/2018/09/22/ui-marsedit-placer.html
 ---
 UI #marsedit - placer emojis
