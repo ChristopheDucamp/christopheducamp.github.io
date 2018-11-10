@@ -3,7 +3,7 @@ layout: post
 title: "Rhoneism : Adoptons et adaptons le Tiret / Plus sur nos Carnets "
 microblog: false
 audio: 
-date: 2018-09-17 19:46:34 +0200
+date: 2018-09-17 17:46:34 -0000
 guid: http://xtof.micro.blog/2018/09/17/rhoneism-adoptons-et.html
 ---
 > [TiretPlus — wikiducamp](http://ducamp.me/TiretPlus)
