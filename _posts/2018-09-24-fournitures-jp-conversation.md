@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-24 09:21:19 +0200
+date: 2018-09-24 07:21:19 -0000
 guid: http://xtof.micro.blog/2018/09/24/fournitures-jp-conversation.html
 ---
 fournitures (jp) à trouver.
