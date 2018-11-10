@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-07 09:50:04 +0200
+date: 2018-07-07 07:50:04 -0000
 guid: http://xtof.micro.blog/2018/07/07/le-centre-du.html
 ---
 Le centre du monde--Dali
