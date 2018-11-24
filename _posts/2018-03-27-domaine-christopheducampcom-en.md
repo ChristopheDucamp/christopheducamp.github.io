@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/14335b4bfd.jpg
 date: 2018-03-27 13:34:00 -0000
 guid: http://xtof.micro.blog/2018/03/27/domaine-christopheducampcom-en.html
 ---
