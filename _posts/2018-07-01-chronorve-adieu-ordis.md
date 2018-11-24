@@ -3,6 +3,7 @@ layout: post
 title: "Golden Globe Race : Adieu ordis, numérique, électronique..."
 microblog: false
 audio: 
+photo: 
 date: 2018-07-01 19:50:21 -0000
 guid: http://xtof.micro.blog/2018/07/01/chronorve-adieu-ordis.html
 ---
