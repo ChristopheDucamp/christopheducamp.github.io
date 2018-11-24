@@ -3,6 +3,7 @@ layout: post
 title: "Sauvegardé mon micro.blog sur GitHub "
 microblog: false
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/51929844a6.jpg
 date: 2018-03-30 20:20:18 -0000
 guid: http://xtof.micro.blog/2018/03/30/sauvegard-mon-microblog.html
 ---
