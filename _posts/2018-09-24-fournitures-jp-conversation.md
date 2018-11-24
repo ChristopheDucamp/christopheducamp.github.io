@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/a1c81c3357.jpg
 date: 2018-09-24 07:21:19 -0000
 guid: http://xtof.micro.blog/2018/09/24/fournitures-jp-conversation.html
 ---
