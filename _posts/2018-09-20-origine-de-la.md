@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/c726558060.jpg
 date: 2018-09-20 11:35:23 -0000
 guid: http://xtof.micro.blog/2018/09/20/origine-de-la.html
 ---
