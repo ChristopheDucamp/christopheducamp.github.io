@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/54b5fce70a.jpg
 date: 2018-10-21 09:42:58 -0000
 guid: http://xtof.micro.blog/2018/10/21/tinylight-acier-ponc.html
 ---
