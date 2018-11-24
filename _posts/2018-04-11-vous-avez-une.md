@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-11 06:01:47 -0000
 guid: http://xtof.micro.blog/2018/04/11/vous-avez-une.html
 ---
