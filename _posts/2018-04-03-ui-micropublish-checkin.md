@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/d9715eca1c.jpg
 date: 2018-04-03 08:53:37 -0000
 guid: http://xtof.micro.blog/2018/04/03/ui-micropublish-checkin.html
 ---
