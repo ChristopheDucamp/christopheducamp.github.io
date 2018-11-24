@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/f3908faa08.jpg
 date: 2018-11-01 08:49:45 -0000
 guid: http://xtof.micro.blog/2018/11/01/roadmap-vers-lanzarotte.html
 ---
