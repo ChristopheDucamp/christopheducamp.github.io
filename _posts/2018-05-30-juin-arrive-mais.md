@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/b5e331a04c.jpg
 date: 2018-05-30 19:17:48 -0000
 guid: http://xtof.micro.blog/2018/05/30/juin-arrive-mais.html
 ---
