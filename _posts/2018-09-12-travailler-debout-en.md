@@ -3,6 +3,7 @@ layout: post
 title: "Travailler Debout en 2019"
 microblog: false
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/2fb50c36b3.jpg
 date: 2018-09-12 06:32:44 -0000
 guid: http://xtof.micro.blog/2018/09/12/travailler-debout-en.html
 ---
