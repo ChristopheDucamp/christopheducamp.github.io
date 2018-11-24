@@ -3,6 +3,7 @@ layout: post
 title: "Blogging, social media, and ambient humanity"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-29 09:06:12 -0000
 guid: http://xtof.micro.blog/2018/03/29/blogging-social-media.html
 ---
