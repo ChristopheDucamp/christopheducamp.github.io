@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/9f8b2a39bf.jpg
 date: 2018-10-02 20:48:31 -0000
 guid: http://xtof.micro.blog/2018/10/02/planyouryear-chronodream.html
 ---
