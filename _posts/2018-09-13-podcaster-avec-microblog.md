@@ -3,6 +3,7 @@ layout: post
 title: "Podcaster avec Micro.blog 🎙️"
 microblog: false
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/be12201844.jpg
 date: 2018-09-13 19:24:10 -0000
 guid: http://xtof.micro.blog/2018/09/13/podcaster-avec-microblog.html
 ---
