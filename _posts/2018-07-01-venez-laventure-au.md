@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/66f152da5a.jpg
 date: 2018-07-01 18:46:56 -0000
 guid: http://xtof.micro.blog/2018/07/01/venez-laventure-au.html
 ---
