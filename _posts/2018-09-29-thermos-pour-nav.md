@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/beb4c0591d.jpg
 date: 2018-09-29 21:55:50 -0000
 guid: http://xtof.micro.blog/2018/09/29/thermos-pour-nav.html
 ---
