@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/61b942b4d5.jpg
 date: 2018-07-18 04:17:49 -0000
 guid: http://xtof.micro.blog/2018/07/18/calabre-mafia.html
 ---
