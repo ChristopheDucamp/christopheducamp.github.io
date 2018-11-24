@@ -3,6 +3,7 @@ layout: post
 title: "Twist and loud ! Les débuts du rock | ARTE"
 microblog: false
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/e378f6f558.jpg
 date: 2018-04-27 21:25:57 -0000
 guid: http://xtof.micro.blog/2018/04/27/twist-and-loud.html
 ---
