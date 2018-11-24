@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/d531ae6d9e.jpg
 date: 2018-07-25 23:27:08 -0000
 guid: http://xtof.micro.blog/2018/07/25/lands-end-miles.html
 ---
