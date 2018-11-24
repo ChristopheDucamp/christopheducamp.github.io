@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/d7f960c2d4.jpg
 date: 2018-04-01 07:24:00 -0000
 guid: http://xtof.micro.blog/2018/04/01/source-usinenouvellecom.html
 ---
