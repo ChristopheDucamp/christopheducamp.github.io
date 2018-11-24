@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://adactio.com/icon.png
 date: 2018-04-06 17:21:15 -0000
 guid: http://xtof.micro.blog/2018/04/06/le-jardin-aux.html
 ---
