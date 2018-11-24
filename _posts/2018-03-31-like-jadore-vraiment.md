@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/342652d718.jpg
 date: 2018-03-31 17:05:13 -0000
 guid: http://xtof.micro.blog/2018/03/31/like-jadore-vraiment.html
 ---
