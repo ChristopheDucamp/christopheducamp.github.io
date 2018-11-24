@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/fb1d13230f.jpg
 date: 2018-10-06 05:49:20 -0000
 guid: http://xtof.micro.blog/2018/10/06/tiretplus-ex-dusage.html
 ---
