@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/66058ccc4f.jpg
 date: 2018-07-26 00:20:25 -0000
 guid: http://xtof.micro.blog/2018/07/26/cap-sur-penzance.html
 ---
