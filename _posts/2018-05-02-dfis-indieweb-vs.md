@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-02 21:11:11 -0000
 guid: http://xtof.micro.blog/2018/05/02/dfis-indieweb-vs.html
 ---
