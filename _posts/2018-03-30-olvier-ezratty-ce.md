@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/6a02f95a9d.jpg
 date: 2018-03-30 14:20:44 -0000
 guid: http://xtof.micro.blog/2018/03/30/olvier-ezratty-ce.html
 ---
