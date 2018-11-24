@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/32d4caca43.jpg
 date: 2018-04-27 14:29:47 -0000
 guid: http://xtof.micro.blog/2018/04/27/trs-bel-assemblage.html
 ---
