@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/3177932817.jpg
 date: 2018-07-31 16:29:55 -0000
 guid: http://xtof.micro.blog/2018/07/31/cathdrale-de-chester.html
 ---
