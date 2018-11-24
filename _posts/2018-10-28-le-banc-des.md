@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/37c81a225d.jpg
 date: 2018-10-28 10:47:25 -0000
 guid: http://xtof.micro.blog/2018/10/28/le-banc-des.html
 ---
