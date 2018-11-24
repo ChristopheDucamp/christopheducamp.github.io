@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/91f0b02bd8.jpg
 date: 2018-05-04 09:19:52 -0000
 guid: http://xtof.micro.blog/2018/05/04/einstein-la-plage.html
 ---
