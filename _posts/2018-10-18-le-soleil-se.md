@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/87162ef26e.jpg
 date: 2018-10-18 06:29:52 -0000
 guid: http://xtof.micro.blog/2018/10/18/le-soleil-se.html
 ---
