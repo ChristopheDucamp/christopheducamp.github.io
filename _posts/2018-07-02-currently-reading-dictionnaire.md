@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-02 09:53:23 -0000
 guid: http://xtof.micro.blog/2018/07/02/currently-reading-dictionnaire.html
 ---
