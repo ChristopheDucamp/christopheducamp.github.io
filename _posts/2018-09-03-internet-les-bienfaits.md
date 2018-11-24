@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/77e08eef18.jpg
 date: 2018-09-03 09:39:50 -0000
 guid: http://xtof.micro.blog/2018/09/03/internet-les-bienfaits.html
 ---
