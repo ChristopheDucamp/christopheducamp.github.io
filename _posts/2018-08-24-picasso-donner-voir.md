@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/054b9c0c24.jpg
 date: 2018-08-24 11:21:11 -0000
 guid: http://xtof.micro.blog/2018/08/24/picasso-donner-voir.html
 ---
