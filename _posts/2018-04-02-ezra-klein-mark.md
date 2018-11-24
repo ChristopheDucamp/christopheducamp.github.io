@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/32d8249bdb.jpg
 date: 2018-04-02 14:27:23 -0000
 guid: http://xtof.micro.blog/2018/04/02/ezra-klein-mark.html
 ---
