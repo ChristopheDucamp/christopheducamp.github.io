@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/bb55ff9d4c.jpg
 date: 2018-07-26 06:35:27 -0000
 guid: http://xtof.micro.blog/2018/07/26/penzance-harbour.html
 ---
