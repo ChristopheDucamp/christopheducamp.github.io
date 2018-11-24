@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/8809c1da79.jpg
 date: 2018-04-11 14:28:19 -0000
 guid: http://xtof.micro.blog/2018/04/11/abeille-bourbon.html
 ---
