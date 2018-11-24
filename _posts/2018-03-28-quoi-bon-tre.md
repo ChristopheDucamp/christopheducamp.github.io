@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-28 19:30:24 -0000
 guid: http://xtof.micro.blog/2018/03/28/quoi-bon-tre.html
 ---
