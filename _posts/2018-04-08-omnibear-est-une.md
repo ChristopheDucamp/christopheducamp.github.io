@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-08 22:35:27 -0000
 guid: http://xtof.micro.blog/2018/04/08/omnibear-est-une.html
 ---
