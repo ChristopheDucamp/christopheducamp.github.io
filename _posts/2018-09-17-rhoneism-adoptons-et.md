@@ -3,6 +3,7 @@ layout: post
 title: "Rhoneism : Adoptons et adaptons le Tiret / Plus sur nos Carnets "
 microblog: false
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/67caacfab2.jpg
 date: 2018-09-17 17:46:34 -0000
 guid: http://xtof.micro.blog/2018/09/17/rhoneism-adoptons-et.html
 ---
