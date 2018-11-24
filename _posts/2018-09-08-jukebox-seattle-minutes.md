@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/fa8dcd48ac.jpg
 date: 2018-09-08 20:26:22 -0000
 guid: http://xtof.micro.blog/2018/09/08/jukebox-seattle-minutes.html
 ---
