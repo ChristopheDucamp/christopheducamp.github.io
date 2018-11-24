@@ -3,6 +3,7 @@ layout: post
 title: "Rencontre Kim Jong Un avec l'ennemi "
 microblog: false
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/f645d9837d.jpg
 date: 2018-06-11 14:55:43 -0000
 guid: http://xtof.micro.blog/2018/06/11/rencontre-kim-jong.html
 ---
