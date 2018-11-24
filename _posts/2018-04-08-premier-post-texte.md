@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/54f081cbd1.jpg
 date: 2018-04-08 22:00:31 -0000
 guid: http://xtof.micro.blog/2018/04/08/premier-post-texte.html
 ---
