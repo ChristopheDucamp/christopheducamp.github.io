@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/3852763a82.jpg
 date: 2018-05-29 06:17:25 -0000
 guid: http://xtof.micro.blog/2018/05/29/tariqkrim-il-faut.html
 ---
