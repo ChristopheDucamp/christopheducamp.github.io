@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/a8fdd6f8ba.jpg
 date: 2018-05-27 08:30:24 -0000
 guid: http://xtof.micro.blog/2018/05/27/libellule-bleue-croise.html
 ---
