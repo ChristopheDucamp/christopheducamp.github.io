@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-21 08:37:35 -0000
 guid: http://xtof.micro.blog/2018/04/21/aaron-parecki-un.html
 ---
