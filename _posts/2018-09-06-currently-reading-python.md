@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-06 11:04:03 -0000
 guid: http://xtof.micro.blog/2018/09/06/currently-reading-python.html
 ---
