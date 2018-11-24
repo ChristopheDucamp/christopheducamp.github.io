@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/4cb77ffcec.jpg
 date: 2018-11-08 17:18:57 -0000
 guid: http://xtof.micro.blog/2018/11/08/ancr-las-palmas.html
 ---
