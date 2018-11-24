@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/ab8753f04c.jpg
 date: 2018-08-18 09:46:39 -0000
 guid: http://xtof.micro.blog/2018/08/18/adieu-italie-retour.html
 ---
