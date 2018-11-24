@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/3f608ddff1.jpg
 date: 2018-05-05 22:15:17 -0000
 guid: http://xtof.micro.blog/2018/05/05/labatjour-de-man.html
 ---
