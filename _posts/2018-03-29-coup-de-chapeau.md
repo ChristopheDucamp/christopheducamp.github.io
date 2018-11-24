@@ -3,6 +3,7 @@ layout: post
 title: "Coup de Chapeau : 9 Capsules Intemporelles d'Anne-Caroline Paucot dans le Rapport Villani"
 microblog: false
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/fc58446538.jpg
 date: 2018-03-29 20:26:53 -0000
 guid: http://xtof.micro.blog/2018/03/29/coup-de-chapeau.html
 ---
