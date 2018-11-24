@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/6ef4e5e979.jpg
 date: 2018-05-08 06:47:34 -0000
 guid: http://xtof.micro.blog/2018/05/08/pour-seishonagon-une.html
 ---
