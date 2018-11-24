@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/f4980fe5d6.jpg
 date: 2018-10-18 11:17:34 -0000
 guid: http://xtof.micro.blog/2018/10/18/alphonse-mucha.html
 ---
