@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/049539887d.jpg
 date: 2018-03-31 08:07:19 -0000
 guid: http://xtof.micro.blog/2018/03/31/big-brother-habite.html
 ---
