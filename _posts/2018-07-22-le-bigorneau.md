@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/0d7f05a0b2.jpg
 date: 2018-07-22 11:00:05 -0000
 guid: http://xtof.micro.blog/2018/07/22/le-bigorneau.html
 ---
