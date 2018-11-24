@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/079b533149.jpg
 date: 2018-08-24 12:00:19 -0000
 guid: http://xtof.micro.blog/2018/08/24/picasso-taureau-ceramics.html
 ---
