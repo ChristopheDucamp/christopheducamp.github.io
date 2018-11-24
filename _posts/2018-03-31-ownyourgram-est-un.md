@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/4186871e31.jpg
 date: 2018-03-31 09:14:59 -0000
 guid: http://xtof.micro.blog/2018/03/31/ownyourgram-est-un.html
 ---
