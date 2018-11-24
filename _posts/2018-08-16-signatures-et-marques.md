@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/80fffb30db.jpg
 date: 2018-08-16 19:20:44 -0000
 guid: http://xtof.micro.blog/2018/08/16/signatures-et-marques.html
 ---
