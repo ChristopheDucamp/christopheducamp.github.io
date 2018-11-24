@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/c5a0a0654e.jpg
 date: 2018-05-08 17:02:23 -0000
 guid: http://xtof.micro.blog/2018/05/08/how-does-spotify.html
 ---
