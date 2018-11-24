@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/1b209d825b.jpg
 date: 2018-09-22 09:32:27 -0000
 guid: http://xtof.micro.blog/2018/09/22/rendu-post-dans.html
 ---
