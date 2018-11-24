@@ -3,6 +3,7 @@ layout: post
 title: "Génération IndieWeb 4 et domaines hébergés"
 microblog: false
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/caedea49bf.jpg
 date: 2018-03-26 19:37:46 -0000
 guid: http://xtof.micro.blog/2018/03/26/gnration-indieweb-et.html
 ---
