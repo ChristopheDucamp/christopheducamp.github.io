@@ -3,6 +3,7 @@ layout: post
 title: "Comment se sevrer soi-même de Facebook ? "
 microblog: false
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/db2da173a1.jpg
 date: 2018-04-05 11:13:49 -0000
 guid: http://xtof.micro.blog/2018/04/05/comment-se-sevrer.html
 ---
