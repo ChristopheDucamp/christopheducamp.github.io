@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/d4ea1ec226.jpg
 date: 2018-06-25 17:24:45 -0000
 guid: http://xtof.micro.blog/2018/06/25/expokupka.html
 ---
