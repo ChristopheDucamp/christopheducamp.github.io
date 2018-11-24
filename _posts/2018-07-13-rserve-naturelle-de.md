@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/40c3181031.jpg
 date: 2018-07-13 04:44:39 -0000
 guid: http://xtof.micro.blog/2018/07/13/rserve-naturelle-de.html
 ---
