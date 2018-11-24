@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/a7a23d6f14.jpg
 date: 2018-10-06 05:56:52 -0000
 guid: http://xtof.micro.blog/2018/10/06/spiruline-cultive-bord.html
 ---
