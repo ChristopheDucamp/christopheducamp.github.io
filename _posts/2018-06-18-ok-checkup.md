@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/99bf7e7571.jpg
 date: 2018-06-18 13:03:24 -0000
 guid: http://xtof.micro.blog/2018/06/18/ok-checkup.html
 ---
