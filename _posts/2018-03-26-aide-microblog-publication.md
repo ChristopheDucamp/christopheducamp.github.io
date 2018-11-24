@@ -3,6 +3,7 @@ layout: post
 title: "Aide Micro.blog - Publication Croisée sur Twitter et Facebook"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-26 23:22:57 -0000
 guid: http://xtof.micro.blog/2018/03/26/aide-microblog-publication.html
 ---
