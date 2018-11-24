@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/5aa8bd4d61.jpg
 date: 2018-05-08 15:24:50 -0000
 guid: http://xtof.micro.blog/2018/05/08/emerveill-par-mes.html
 ---
