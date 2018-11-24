@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/65db2cc564.jpg
 date: 2018-11-09 12:39:12 -0000
 guid: http://xtof.micro.blog/2018/11/09/crew-available-transat.html
 ---
