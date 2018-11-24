@@ -3,6 +3,7 @@ layout: post
 title: "Domaine personnel vers un micro.blog : premier essai peu concluant"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-26 19:53:30 -0000
 guid: http://xtof.micro.blog/2018/03/26/tentative-de-redirection.html
 ---
