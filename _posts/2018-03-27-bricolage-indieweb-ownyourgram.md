@@ -3,6 +3,7 @@ layout: post
 title: "Bricolage #indieweb : OwnYourGram"
 microblog: false
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/8ac3fa6fa3.jpg
 date: 2018-03-27 02:56:37 -0000
 guid: http://xtof.micro.blog/2018/03/27/bricolage-indieweb-ownyourgram.html
 ---
