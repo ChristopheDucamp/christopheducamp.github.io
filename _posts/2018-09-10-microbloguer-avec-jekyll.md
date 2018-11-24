@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-10 14:32:01 -0000
 guid: http://xtof.micro.blog/2018/09/10/microbloguer-avec-jekyll.html
 ---
