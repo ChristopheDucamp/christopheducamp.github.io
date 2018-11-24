@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/2220be881e.jpg
 date: 2018-07-07 07:50:04 -0000
 guid: http://xtof.micro.blog/2018/07/07/le-centre-du.html
 ---
