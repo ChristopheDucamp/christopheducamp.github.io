@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/f3005f0e07.jpg
 date: 2018-04-03 11:47:49 -0000
 guid: http://xtof.micro.blog/2018/04/03/saine-lecture-pour.html
 ---
