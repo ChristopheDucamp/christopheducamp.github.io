@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/3ece8c931e.jpg
 date: 2018-10-26 08:54:33 -0000
 guid: http://xtof.micro.blog/2018/10/26/inspir-par-ce.html
 ---
