@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/ca27c91a3e.jpg
 date: 2018-07-25 23:50:05 -0000
 guid: http://xtof.micro.blog/2018/07/25/quart-de-veille.html
 ---
