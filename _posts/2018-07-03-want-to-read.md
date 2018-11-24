@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-03 07:06:02 -0000
 guid: http://xtof.micro.blog/2018/07/03/want-to-read.html
 ---
