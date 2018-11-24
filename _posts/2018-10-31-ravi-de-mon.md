@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/e6da001cd7.jpg
 date: 2018-10-31 08:19:13 -0000
 guid: http://xtof.micro.blog/2018/10/31/ravi-de-mon.html
 ---
