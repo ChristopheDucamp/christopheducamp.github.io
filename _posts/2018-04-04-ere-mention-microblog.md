@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/bc8d5ef878.jpg
 date: 2018-04-04 06:49:03 -0000
 guid: http://xtof.micro.blog/2018/04/04/ere-mention-microblog.html
 ---
