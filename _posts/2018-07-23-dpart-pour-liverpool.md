@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/ea7690790a.jpg
 date: 2018-07-23 13:13:16 -0000
 guid: http://xtof.micro.blog/2018/07/23/dpart-pour-liverpool.html
 ---
