@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/736da1c1a7.jpg
 date: 2018-08-15 10:21:03 -0000
 guid: http://xtof.micro.blog/2018/08/15/basilique-saint-pierre.html
 ---
