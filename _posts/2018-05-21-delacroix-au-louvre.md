@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/46cb2ea8bd.jpg
 date: 2018-05-21 17:51:44 -0000
 guid: http://xtof.micro.blog/2018/05/21/delacroix-au-louvre.html
 ---
