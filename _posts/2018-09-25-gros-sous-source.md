@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/5ed2ff09f9.jpg
 date: 2018-09-25 08:12:16 -0000
 guid: http://xtof.micro.blog/2018/09/25/gros-sous-source.html
 ---
