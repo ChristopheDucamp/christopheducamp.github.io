@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/b178677a89.jpg
 date: 2018-07-16 08:09:17 -0000
 guid: http://xtof.micro.blog/2018/07/16/kt-direction-stretto.html
 ---
