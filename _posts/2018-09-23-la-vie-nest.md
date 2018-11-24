@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/38ccd8c6d4.jpg
 date: 2018-09-23 05:46:35 -0000
 guid: http://xtof.micro.blog/2018/09/23/la-vie-nest.html
 ---
