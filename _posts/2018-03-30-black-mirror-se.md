@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/472154be1b.jpg
 date: 2018-03-30 13:22:28 -0000
 guid: http://xtof.micro.blog/2018/03/30/black-mirror-se.html
 ---
