@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.ducamp.me/uploads/2018/0ba646b2a0.jpg
 date: 2018-08-16 11:43:46 -0000
 guid: http://xtof.micro.blog/2018/08/16/galerie-nationale.html
 ---
