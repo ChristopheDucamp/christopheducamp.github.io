@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/b6195460c9.jpg
 date: 2018-04-03 05:22:48 -0000
 guid: http://xtof.micro.blog/2018/04/03/parti-pour-un.html
 ---
