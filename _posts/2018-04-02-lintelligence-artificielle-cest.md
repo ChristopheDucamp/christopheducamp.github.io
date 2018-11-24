@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/01e6c3523a.jpg
 date: 2018-04-02 15:34:32 -0000
 guid: http://xtof.micro.blog/2018/04/02/lintelligence-artificielle-cest.html
 ---
