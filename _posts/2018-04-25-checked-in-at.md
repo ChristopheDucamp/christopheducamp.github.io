@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://microblog.ducamp.me/uploads/2018/87dd9fa485.jpg
 date: 2018-04-25 09:00:54 -0000
 guid: http://xtof.micro.blog/2018/04/25/checked-in-at.html
 ---
